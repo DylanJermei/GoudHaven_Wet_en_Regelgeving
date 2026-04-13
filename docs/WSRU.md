@@ -101,6 +101,9 @@
    4. bijkomende straffen zoals ontzetting van bepaalde rechten, openbaarmaking van de rechterlijke uitspraak.
 2. Straffen kunnen afzonderlijk of in combinatie worden opgelegd, voor zover het betreffende artikel daarin voorziet.
 
+#### Artikel 11a
+1. In het vonnus waarbij een taakstraf wordt opgelegd, en niet naar behoren wordt verricht, zal een vervangende hechtenis worden toegepast
+
 #### Artikel 12
 
 1. Een taakstraf kan niet worden opgelgd in geval van een veroordeling voor:
