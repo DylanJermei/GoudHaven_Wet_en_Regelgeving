@@ -1,9 +1,9 @@
 | Kenmerk | Waarde |
 |--------|--------|
-| Officiële naam | Wetboek van Strafrecht United |
+| Officiële naam | Wetboek van Strafrecht Universe |
 | Citeertitel | WSRU |
 | Rechtsgebied | Strafrecht |
-| Vastgesteld door | Het gerechtshof te united |
+| Vastgesteld door | Het gerechtshof te Universe |
 | Inwerkingtreding | 01-04-2026 |
 | Laatst gewijzigd | 13-04-2026 |
 | Versie | 1.0 |
@@ -15,14 +15,14 @@
 
 #### Artikel 1
 
-1. Het Wetboek van Strafrecht United, hierna te noemen: WSRU, is van toepassing op alle strafbare feiten die binnen United Roleplay worden gepleegd.
+1. Het Wetboek van Strafrecht Universe, hierna te noemen: WSRU, is van toepassing op alle strafbare feiten die binnen Universe Roleplay worden gepleegd.
 2. Onder strafbare feiten worden verstaan alle gedragingen die bij of krachtens dit wetboek strafbaar zijn gesteld.
 
 ---
 
 #### Artikel 2
 
-1. Dit wetboek is mede van toepassing op gedragingen buiten United Roleplay, voor zover deze gevolgen hebben binnen United Roleplay of de openbare orde, veiligheid of rechtsorde van United aantasten.
+1. Dit wetboek is mede van toepassing op gedragingen buiten Universe Roleplay, voor zover deze gevolgen hebben binnen Universe Roleplay of de openbare orde, veiligheid of rechtsorde van Universe aantasten.
 2. Indien dit wetboek geen regeling bevat, kan aansluiting worden gezocht bij algemene rechtsbeginselen en redelijke wetsuitleg.
 
 ---
@@ -118,7 +118,7 @@
 #### Artikel 13
 
 1. De maximale duur van een op te leggen gevangenisstraf bedraagt 400 maanden.
-2. Indien de totale strafmaat dit maximum overschrijdt, kan het meerdere worden omgezet in een aanvullende geldboete, voor zover dit in overeenstemming is met dit wetboek of de strafpraktijk van United.
+2. Indien de totale strafmaat dit maximum overschrijdt, kan het meerdere worden omgezet in een aanvullende geldboete, voor zover dit in overeenstemming is met dit wetboek of de strafpraktijk van Universe.
 
 ---
 
@@ -221,7 +221,7 @@
 
 #### Artikel 24
 
-Dit wetboek wordt aangehaald als: Wetboek van Strafrecht United (WSRU).
+Dit wetboek wordt aangehaald als: Wetboek van Strafrecht Universe (WSRU).
 
 ---
 
