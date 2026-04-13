@@ -1,7 +1,7 @@
-site_name: United Roleplay - Wetboek & Regelgeving
+site_name: Universe Roleplay - Wetboek & Regelgeving
 site_url: https://sitename.example
-site_description: Officiële wet- en regelgeving van United Roleplay
-site_author: United Roleplay
+site_description: Officiële wet- en regelgeving van Universe Roleplay
+site_author: Universe Roleplay
 
 theme:
   name: material
@@ -49,11 +49,11 @@ nav:
   - Home: index.md
   - Wetboek & Regelgeving:
       - Strafrecht:
-          - Wetboek van Strafrecht United: WSRU.md
+          - Wetboek van Strafrecht Universe: WSRU.md
       - Bijzondere wetten:
-          - Wet wapens en munitie United: WWMU.md
-          - Opiumwet United: OWU.md
+          - Wet wapens en munitie Universe: WWMU.md
+          - Opiumwet Universe: OWU.md
       - Verkeer:
-          - Wegenverkeerswet United: WVWU.md
+          - Wegenverkeerswet Universe: WVWU.md
       - Lokale regelgeving:
-          - Algemene Plaatselijke Verordening United: APV United.md
+          - Algemene Plaatselijke Verordening Universe: APV Universe.md
