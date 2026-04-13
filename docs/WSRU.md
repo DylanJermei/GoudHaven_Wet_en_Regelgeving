@@ -1,13 +1,15 @@
-| Kenmerk | Waarde |
-|--------|--------|
-| Officiële naam | Wetboek van Strafrecht Universe |
-| Citeertitel | WSRU |
-| Rechtsgebied | Strafrecht |
-| Vastgesteld door | Het gerechtshof te Universe |
-| Inwerkingtreding | 01-04-2026 |
-| Laatst gewijzigd | 13-04-2026 |
-| Versie | 1.0 |
-| Status | Geldend |
+| Kenmerk          | Waarde                          |
+| ---------------- | ------------------------------- |
+| Officiële naam   | Wetboek van Strafrecht Universe |
+| Citeertitel      | WSRU                            |
+| Rechtsgebied     | Strafrecht                      |
+| Vastgesteld door | Het gerechtshof te Universe     |
+| Inwerkingtreding | 01-04-2026                      |
+| Laatst gewijzigd | 13-04-2026                      |
+| Versie           | 1.0                             |
+| Status           | Geldend                         |
+
+---
 
 ## Eerste Boek – Algemene bepalingen
 
@@ -64,384 +66,228 @@
 
 ---
 
-### Titel III – Poging en deelneming
-
 #### Artikel 8
 
-1. Poging tot misdrijf is strafbaar indien het voornemen van de dader zich door een begin van uitvoering heeft geopenbaard.
-2. Voor zover bij het betreffende artikel niet anders is bepaald, kan op een poging een lagere straf worden toegepast dan op het voltooide feit.
+1. Niet strafbaar is de politieambtenaar die in de rechtmatige uitoefening van zijn taak en in overeenstemming met de geldende geweldsinstructie geweld gebruikt.
+2. Met een politieambtenaar wordt gelijkgesteld een persoon in openbare dienst met de opdracht de veiligheid te waarborgen.
 
 ---
 
 #### Artikel 9
 
-1. Als daders van een strafbaar feit worden gestraft:
-   1. zij die het feit plegen, doen plegen of medeplegen;
-   2. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding het feit uitlokken.
-2. Van medeplegen is sprake indien twee of meer personen bewust en nauw samenwerken bij het plegen van een strafbaar feit.
+1. Indien een politieambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of daarbij gebruik maakt van macht, gelegenheid of middelen hem door zijn ambt verschaft, kan de op het feit gestelde straf, met uitzondering van een geldboete, met 33% worden verhoogd.
+2. Met een politieambtenaar wordt gelijkgesteld een persoon in openbare dienst met de opdracht de veiligheid te waarborgen.
 
 ---
+
+### Titel III – Poging en deelneming
 
 #### Artikel 10
 
-1. Als medeplichtigen aan een strafbaar feit worden gestraft zij die opzettelijk behulpzaam zijn bij het plegen daarvan.
-2. Ook als medeplichtigen worden gestraft zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van een strafbaar feit.
-3. Indien sprake is van medeplichtigheid, kan een lagere straf worden opgelegd dan aan de dader of medepleger.
+1. Poging tot misdrijf is strafbaar indien het voornemen van de dader zich door een begin van uitvoering heeft geopenbaard.
+2. Voor zover bij het betreffende artikel niet anders is bepaald, kan op een poging een verminderde straf worden toegepast.
+3. Deze verminderde straf bedraagt maximaal twee derde en minimaal één derde van de normale strafeis.
 
 ---
-
-### Titel IV – Straffen en maatregelen
 
 #### Artikel 11
 
-1. De straffen die op grond van dit wetboek kunnen worden opgelegd zijn:
-   1. gevangenisstraf;
-   2. taakstraf;
-   3. geldboete;
-   4. bijkomende straffen zoals ontzetting van bepaalde rechten, openbaarmaking van de rechterlijke uitspraak.
-2. Straffen kunnen afzonderlijk of in combinatie worden opgelegd, voor zover het betreffende artikel daarin voorziet.
-
-#### Artikel 11a
-1. In het vonnus waarbij een taakstraf wordt opgelegd, en niet naar behoren wordt verricht, zal een vervangende hechtenis worden toegepast
-
-#### Artikel 12
-
-1. Een taakstraf kan niet worden opgelgd in geval van een veroordeling voor:
-   <ol type="a">
-     <li>een misdrijf waarop de wettelijke omschrijving een gevangenis straf van 20 maanden of meer is gesteld.</li>
-   </ol>
+1. Voorbereiding van een misdrijf waarop een gevangenisstraf van 20 maanden of meer is gesteld, is strafbaar indien de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het plegen van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
+2. Onder voorwerpen worden verstaan alle zaken en vermogensrechten.
 
 ---
 
 #### Artikel 12
 
-1. Bij het bepalen van de straf wordt rekening gehouden met:
-   <ol type="a">
-     <li>De ernst van het feit;.</li>
-     <li>De omstandigheden waaronder het feit is gepleegd;</li>
-     <li>De persoon en het gedrag van de verdachte</li>
-     <li>eventuele eerdere veroordelingen voor hetzelfde of soortgelijk feit;</li>
-     <li>Bij meerdere slachtoffers kan, indien het betreffende artikel of de aard van het feit daartoe aanleiding geeft, een zwaardere straf worden opgelegd.</li>
-     <li>Bij herhaald plegen van hetzelfde strafbare feit kan een zwaardere straf worden opgelegd.</li>
-   </ol>
+1. Als daders van een strafbaar feit worden gestraft:
+   a. zij die het feit plegen, doen plegen of medeplegen;
+   b. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding het feit uitlokken.
+2. Van medeplegen is sprake indien twee of meer personen bewust en nauw samenwerken bij het plegen van een strafbaar feit.
 
 ---
 
 #### Artikel 13
 
-1. De maximale duur van een op te leggen gevangenisstraf bedraagt 400 maanden.
-2. Indien de totale strafmaat dit maximum overschrijdt, kan het meerdere worden omgezet in een aanvullende geldboete, voor zover dit in overeenstemming is met dit wetboek of de strafpraktijk van Universe.
+1. Als medeplichtigen worden gestraft zij die opzettelijk behulpzaam zijn bij het plegen van een strafbaar feit.
+2. Ook strafbaar zijn zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen.
+3. Bij medeplichtigheid kan een verminderde straf worden opgelegd.
+4. Deze verminderde straf bedraagt maximaal twee derde en minimaal één derde van de normale strafeis.
 
 ---
 
-### Titel V – Verjaring en strafblad
+### Titel IV – Straffen en maatregelen
 
 #### Artikel 14
 
-1. Het recht tot strafvervolging vervalt door verjaring.
-2. Strafbare feiten waarop een totale strafeis staat van 1 tot en met 150 maanden verjaren na 7 dagen.
-3. Strafbare feiten waarop een totale strafeis staat van 151 tot en met 250 maanden verjaren na 14 dagen.
-4. Strafbare feiten waarop een totale strafeis staat van 251 maanden of meer verjaren na 21 dagen.
-5. Strafbare feiten waarop geen gevangenisstraf is gesteld verjaren niet, tenzij uitdrukkelijk anders is bepaald.
-6. Indien een zaak ter beoordeling aan de rechtbank is voorgelegd, kan de verjaringstermijn worden verlengd tot 42 dagen.
+1. De straffen die kunnen worden opgelegd zijn:
+   a. gevangenisstraf;
+   b. taakstraf;
+   c. geldboete;
+   d. bijkomende straffen.
+2. Straffen kunnen afzonderlijk of gecombineerd worden opgelegd.
 
 ---
 
 #### Artikel 15
 
-1. Een veroordeling waarbij een gevangenisstraf wordt opgelegd kan leiden tot een strafblad.
-2. Een strafblad blijft in beginsel geregistreerd voor de duur van één maand, te rekenen vanaf de datum waarop de straf is opgelegd.
-3. Indien binnen deze termijn opnieuw een strafbaar feit wordt gepleegd dat eveneens tot een strafblad leidt, kan de registratie opnieuw aanvangen vanaf de datum van de meest recente veroordeling.
-4. Het strafblad kan gevolgen hebben voor functies, vergunningen of verklaringen waarvoor betrouwbaarheid van belang is.
+1. Indien een taakstraf niet naar behoren wordt uitgevoerd, kan vervangende hechtenis worden toegepast.
+2. De duur daarvan bedraagt minimaal één maand en maximaal tien maanden.
+3. Voor elke vijf uren taakstraf kan maximaal één maand hechtenis worden opgelegd.
 
 ---
-
-### Titel VI – Algemene rechtsbeginselen
 
 #### Artikel 16
 
-1. Bij de toepassing en uitleg van dit wetboek worden de algemene rechtsbeginselen in acht genomen.
-2. Tot deze beginselen behoren in ieder geval:
-   1. proportionaliteit;
-   2. subsidiariteit;
-   3. hoor en wederhoor;
-   4. rechtszekerheid;
-   5. onschuldpresumptie;
-   6. ne bis in idem.
-3. Handelingen of beslissingen die in strijd zijn met deze beginselen kunnen leiden tot strafvermindering, bewijsuitsluiting of andere rechtsgevolgen.
+1. Een taakstraf wordt niet opgelegd bij misdrijven waarop een gevangenisstraf van 20 maanden of meer is gesteld, tenzij anders bepaald.
 
 ---
 
-### Titel VII – Rechten van de aangehouden persoon
+#### Artikel 17
 
-#### Artikel 17 – Mededeling van aanhouding
-
-1. Een aangehouden persoon wordt onverwijld geïnformeerd over de reden van zijn aanhouding.
-2. Deze mededeling geschiedt op duidelijke en begrijpelijke wijze.
+1. Indien een feit onder meerdere strafbepalingen valt, wordt slechts één bepaling toegepast.
+2. De bepaling met de zwaarste hoofdstraf is leidend.
 
 ---
 
-#### Artikel 18 – Recht op zwijgen
+#### Artikel 18
 
-1. De aangehouden persoon is niet verplicht tot antwoorden op vragen.
-2. Dit recht wordt uiterlijk voorafgaand aan het eerste verhoor medegedeeld.
-3. Indien geen verhoor plaatsvindt, vervalt de verplichting tot mededeling van dit recht.
-
----
-
-#### Artikel 19 – Recht op rechtsbijstand
-
-1. De aangehouden persoon heeft recht op bijstand van een advocaat.
-2. Dit recht wordt voorafgaand aan het eerste verhoor kenbaar gemaakt.
-3. Indien de verdachte geen advocaat kan betalen kan er een worden aangewezen door het Openbaar Ministerie.
-4. Een advocaat moet zich ten alle tijden kunnen idetificeren door een erkend advocatenpas.
+1. Bij het bepalen van de straf wordt rekening gehouden met:
+   a. de ernst van het feit;
+   b. de omstandigheden;
+   c. de persoon van de verdachte;
+   d. eerdere veroordelingen;
+   e. het aantal slachtoffers;
+   f. herhaling van het feit.
 
 ---
 
-#### Artikel 20 – Behandeling
+#### Artikel 19
 
-1. De aangehouden persoon wordt op respectvolle en zorgvuldige wijze behandeld.
-2. Het gebruik van geweld is slechts toegestaan voor zover dit noodzakelijk en proportioneel is.
-
----
-
-#### Artikel 21 – Informatie over verdenking
-
-1. De aangehouden persoon heeft recht op informatie over de tegen hem bestaande verdenking.
-2. Deze informatie omvat ten minste een globale omschrijving van het strafbare feit.
+1. De maximale gevangenisstraf bedraagt 400 maanden.
+2. Overschrijding kan worden omgezet in een geldboete.
 
 ---
 
-#### Artikel 22 – Gevolgen van schending
+#### Artikel 20
 
-1. Indien de in deze titel genoemde rechten niet worden nageleefd, kan dit gevolgen hebben voor de rechtmatigheid van de aanhouding of verdere procedure.
+1. Binnen Universe wordt geen onderscheid gemaakt tussen minderjarigen en meerderjarigen.
+
+---
+
+### Titel V – Verjaring
+
+#### Artikel 21
+
+1. Strafbare feiten verjaren als volgt:
+   a. 1 t/m 150 maanden → 7 dagen
+   b. 151 t/m 250 maanden → 14 dagen
+2. Niet verjaren:
+   a. feiten vanaf 251 maanden
+   b. feiten zonder gevangenisstraf
+3. Rechtszaken kunnen verjaring verlengen tot 42 dagen.
+
+---
+
+### Titel VI – Strafblad
+
+#### Artikel 22
+
+1. Een gevangenisstraf kan leiden tot een strafblad.
+2. Dit blijft één maand geregistreerd.
+3. Nieuwe feiten resetten deze termijn.
+4. Het strafblad kan gevolgen hebben voor functies en vergunningen.
+
+---
+
+### Titel VII – Algemene rechtsbeginselen
+
+#### Artikel 23
+
+1. Dit wetboek wordt toegepast met inachtneming van:
+   a. proportionaliteit
+   b. subsidiariteit
+   c. hoor en wederhoor
+   d. rechtszekerheid
+   e. onschuldpresumptie
+   f. ne bis in idem
+
+---
+
+### Titel VIII – Rechten van de aangehouden persoon
+
+#### Artikel 24 – Mededeling van aanhouding
+
+1. De verdachte wordt geïnformeerd over de reden van aanhouding.
+
+---
+
+#### Artikel 25 – Zwijgrecht
+
+1. De verdachte is niet verplicht te antwoorden.
+2. Dit wordt medegedeeld vóór het eerste verhoor.
+
+---
+
+#### Artikel 26 – Rechtsbijstand
+
+1. De verdachte heeft recht op een advocaat.
+2. Deze wordt voorafgaand aan het eerste verhoor aangeboden.
+
+---
+
+#### Artikel 27 – Behandeling
+
+1. De verdachte wordt respectvol behandeld.
+2. Geweld moet proportioneel zijn.
+
+---
+
+#### Artikel 28 – Informatie
+
+1. De verdachte heeft recht op informatie over de verdenking.
+
+---
+
+#### Artikel 29 – Schending rechten
+
+1. Schending kan gevolgen hebben voor de zaak.
 
 ---
 
 ### Titel IX – Strafverzwarende en strafverminderende omstandigheden
 
-#### Artikel 23 – Strafaanpassing
+#### Artikel 30
 
-1. Indien een strafbaar feit wordt gepleegd tegen een ambtenaar in functie, wordt de op te leggen straf verhoogd met 33%.
-2. Indien sprake is van een poging tot het plegen van een strafbaar feit, wordt de op te leggen straf verlaagd met 33%.
-3. De in dit artikel genoemde aanpassingen worden toegepast op de totale strafmaat.
-4. Indien meerdere strafverzwarende of strafverminderende omstandigheden van toepassing zijn, worden deze cumulatief toegepast, tenzij dit leidt tot een onredelijke of disproportionele straf.
+1. Straf wordt verhoogd met 33% bij ambtenaar in functie.
+2. Straf wordt verlaagd met 33% bij poging.
+3. Dit geldt voor de totale straf.
+4. Combinatie is mogelijk mits redelijk.
 
 ---
 
 ### Titel X – Slotbepalingen
 
-#### Artikel 24
+#### Artikel 31
 
 Dit wetboek wordt aangehaald als: Wetboek van Strafrecht Universe (WSRU).
 
 ---
 
-#### Artikel 25
+#### Artikel 32
 
-Dit wetboek treedt in werking op de door de bevoegde autoriteit vastgestelde datum.
+Dit wetboek treedt in werking op een door de bevoegde autoriteit vastgestelde datum.
+
+---
 
 ## Tweede Boek – Misdrijven
 
 De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
----
 
-## Titel I – Misdrijven tegen het leven
+## Titel I – Misdrijven tegen de openbare orde
 
-### Artikel 26 – Doodslag
 
-1. Hij die opzettelijk een ander van het leven berooft, wordt gestraft.
-2. Indien het feit wordt gepleegd tegen een ambtenaar in functie, wordt de straf verhoogd met 33%.
-3. Indien sprake is van een poging, wordt de straf verlaagd met 33%.
 
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 72 maanden | €15.000 |
-| **Tweede veroordeling**     | 84 maanden | €20.000 |
-| **Meerdere veroordelingen** | 96 maanden | €25.000 |
-
----
-
-### Artikel 27 – Moord
-
-1. Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt gestraft.
-2. Voorbedachten rade wordt aangenomen indien de dader tijd heeft gehad zich te beraden op het besluit.
-3. Lid 2 en 3 van artikel 26 zijn van overeenkomstige toepassing.
-
-|                             | Celstraf    | Boete   |
-| --------------------------- | ----------- | ------- |
-| **Eerste veroordeling**     | 90 maanden  | €20.000 |
-| **Tweede veroordeling**     | 105 maanden | €25.000 |
-| **Meerdere veroordelingen** | 120 maanden | €30.000 |
-
----
-
-### Artikel 28 – Dood door schuld
-
-1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft.
-2. Indien sprake is van roekeloos handelen wordt de straf verhoogd.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 24 maanden | €10.000 |
-| **Tweede veroordeling**     | 36 maanden | €15.000 |
-| **Meerdere veroordelingen** | 48 maanden | €20.000 |
-
----
-
-## Titel II – Mishandeling en geweld
-
-### Artikel 29 – Mishandeling
-
-1. Hij die opzettelijk een ander mishandelt, wordt gestraft.
-2. Onder mishandeling wordt mede verstaan het toebrengen van lichamelijk of geestelijk letsel.
-3. Poging tot mishandeling is niet strafbaar.
-
-|                             | Taakstraf | Boete   |
-| --------------------------- | --------- | ------- |
-| **Eerste veroordeling**     | 30 uur    | €5.000  |
-| **Tweede veroordeling**     | 40 uur    | €7.500  |
-| **Meerdere veroordelingen** | 50 uur    | €10.000 |
-
----
-
-### Artikel 30 – Zware mishandeling
-
-1. Hij die opzettelijk zwaar lichamelijk letsel toebrengt, wordt gestraft.
-2. Onder zwaar letsel wordt verstaan letsel dat niet ter plaatse behandeld kan worden.
-3. Poging wordt bestraft met vermindering van 33%.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 12 maanden | €10.000 |
-| **Tweede veroordeling**     | 18 maanden | €12.500 |
-| **Meerdere veroordelingen** | 24 maanden | €15.000 |
-
----
-
-### Artikel 31 – Bedreiging
-
-1. Hij die een ander bedreigt met geweld of een misdrijf tegen het leven gericht, wordt gestraft.
-2. De bedreiging dient van zodanige aard te zijn dat deze vrees kan opwekken.
-
-|                             | Taakstraf | Boete  |
-| --------------------------- | --------- | ------ |
-| **Eerste veroordeling**     | 20 uur    | €3.000 |
-| **Tweede veroordeling**     | 30 uur    | €4.000 |
-| **Meerdere veroordelingen** | 40 uur    | €5.000 |
-
----
-
-## Titel III – Vrijheid en openbare orde
-
-### Artikel 32 – Vrijheidsberoving
-
-1. Hij die een ander wederrechtelijk van de vrijheid berooft, wordt gestraft.
-2. Indien het slachtoffer een ambtenaar is, wordt de straf verhoogd met 33%.
-3. Poging wordt bestraft met vermindering van 33%.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 48 maanden | €10.000 |
-| **Tweede veroordeling**     | 60 maanden | €15.000 |
-| **Meerdere veroordelingen** | 72 maanden | €20.000 |
-
----
-
-### Artikel 33 – Openlijke geweldpleging
-
-1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft.
-2. Van vereniging is sprake bij samenwerking tussen twee of meer personen.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 18 maanden | €7.500  |
-| **Tweede veroordeling**     | 27 maanden | €10.000 |
-| **Meerdere veroordelingen** | 36 maanden | €15.000 |
-
----
-
-## Titel IV – Vermogensdelicten
-
-### Artikel 34 – Diefstal
-
-1. Hij die een goed wegneemt dat aan een ander toebehoort, met het oogmerk dit zich wederrechtelijk toe te eigenen, wordt gestraft.
-2. Poging wordt bestraft met vermindering van 33%.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | -          | €6.500  |
-| **Tweede veroordeling**     | 12 maanden | €8.500  |
-| **Meerdere veroordelingen** | 24 maanden | €10.000 |
-
----
-
-### Artikel 35 – Gekwalificeerde diefstal
-
-1. Indien diefstal wordt gepleegd door middel van braak, inklimming, valse sleutels of in vereniging, wordt dit zwaarder bestraft.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | -          | €10.000 |
-| **Tweede veroordeling**     | 7 maanden  | €12.000 |
-| **Meerdere veroordelingen** | 14 maanden | €17.000 |
-
----
-
-### Artikel 36 – Diefstal met geweld
-
-1. Indien diefstal gepaard gaat met geweld of bedreiging, wordt dit aangemerkt als een ernstig misdrijf.
-
-|                             | Celstraf    | Boete   |
-| --------------------------- | ----------- | ------- |
-| **Eerste veroordeling**     | 36 maanden  | €20.000 |
-| **Tweede veroordeling**     | 72 maanden  | €25.000 |
-| **Meerdere veroordelingen** | 108 maanden | €30.000 |
-
----
-
-### Artikel 37 – Oplichting
-
-1. Hij die door listige kunstgrepen een ander beweegt tot afgifte van goederen, wordt gestraft.
-
-|                             | Celstraf   | Boete   |
-| --------------------------- | ---------- | ------- |
-| **Eerste veroordeling**     | 6 maanden  | €7.500  |
-| **Tweede veroordeling**     | 12 maanden | €10.000 |
-| **Meerdere veroordelingen** | 24 maanden | €15.000 |
-
----
-
-### Artikel 38 – Heling
-
-1. Hij die een goed verwerft terwijl hij weet dat het uit misdrijf afkomstig is, wordt gestraft.
-
-|                             | Taakstraf | Boete  |
-| --------------------------- | --------- | ------ |
-| **Eerste veroordeling**     | 20 uur    | €2.000 |
-| **Tweede veroordeling**     | 30 uur    | €4.000 |
-| **Meerdere veroordelingen** | 60 uur    | €5.000 |
-
----
-
-## Titel V – Gezag en overheid
-
-### Artikel 39 – Wederspannigheid
-
-1. Hij die zich met geweld verzet tegen een ambtenaar in functie, wordt gestraft.
-
-|                             | Taakstraf | Boete  |
-| --------------------------- | --------- | ------ |
-| **Eerste veroordeling**     | 15 uur    | €1.000 |
-| **Tweede veroordeling**     | 25 uur    | €1.500 |
-| **Meerdere veroordelingen** | 35 uur    | €2.000 |
-
----
-
-### Artikel 40 – Niet voldoen aan bevel
-
-1. Hij die opzettelijk geen gehoor geeft aan een wettig bevel van een ambtenaar, wordt gestraft.
 
 |                             | Taakstraf | Boete  |
 | --------------------------- | --------- | ------ |
