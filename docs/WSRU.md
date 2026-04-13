@@ -98,8 +98,13 @@
    1. gevangenisstraf;
    2. taakstraf;
    3. geldboete;
-   4. bijkomende straffen of maatregelen, voor zover in dit wetboek bepaald.
+   4. bijkomende straffen zoals ontzetting van bepaalde rechten, openbaarmaking van de rechterlijke uitspraak.
 2. Straffen kunnen afzonderlijk of in combinatie worden opgelegd, voor zover het betreffende artikel daarin voorziet.
+
+#### Artikel 12
+
+1. Een taakstraf kan niet worden opgelgd in geval van een veroordeling voor:
+   a. een misdrijf waarop de wettelijke omschrijving een gevangenis van 20   maanden of meer voorsteld.
 
 ---
 
