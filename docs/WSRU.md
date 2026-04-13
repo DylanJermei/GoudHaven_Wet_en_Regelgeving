@@ -295,7 +295,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel I – Misdrijven tegen de openbare orde
 
-### Artikel ?? (135SR)
+### Artikel ?? - Opzettelijk nalaten misdrijf te melden (135SR)
 1. Schuldig is een persoon die kennis draagt van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, het opzettelijk nalaat daarvan tijdig kennis tegeve aan de politie.
 
 
@@ -303,7 +303,37 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 |                             | Taakstraf | Celstraf   | Boete  |
 | --------------------------- | --------- | ---------- | ------ |
 | **Eerste veroordeling**     | -         | -          | €2.500 |
-| **Tweede veroordeling**     | 30 uur    | -          | €2.500 |
-| **Meerdere veroordelingen** | -         | 10 Maanden | €3.500 |
+| **Tweede veroordeling**     | 30 uur    | -          | €3.500 |
+| **Meerdere veroordelingen** | -         | 10 Maanden | €5.500 |
+
+---
+
+### Artikel ?? - Huisvredebreuk (138SR)
+1. Schuldig is een persoon die in een woning, besloten lokaal, of erf bij een ander ingebruik binnendringt, of zich niet verwijderd op uitdrukkelijke vraag van de eigenaar.
+2. Zij die zichzelf toegangverschaft door braak, inklimming, gebruik valse sleutels, gebruik vals uniform, of wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 15 Maanden | €5.000  |
+| **Tweede veroordeling**     | -         | 25 Maanden | €8.500  |
+| **Meerdere veroordelingen** | -         | 40 Maanden | €10.000 |
+
+---
+
+### Artikel ?? -  (SR)
+1. Schuldig is een persoon 
+
+
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | -          | €5.000  |
+| **Tweede veroordeling**     | -         | -          | €8.500  |
+| **Meerdere veroordelingen** | -         | -          | €10.000 |
+
+---
 
 
