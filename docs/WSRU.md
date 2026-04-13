@@ -104,19 +104,23 @@
 #### Artikel 12
 
 1. Een taakstraf kan niet worden opgelgd in geval van een veroordeling voor:
-   a. een misdrijf waarop de wettelijke omschrijving een gevangenis van 20   maanden of meer voorsteld.
+   <ol type="a">
+     <li>een misdrijf waarop de wettelijke omschrijving een gevangenis straf van 20 maanden of meer is gesteld.</li>
+   </ol>
 
 ---
 
 #### Artikel 12
 
 1. Bij het bepalen van de straf wordt rekening gehouden met:
-   1. de ernst van het feit;
-   2. de omstandigheden waaronder het feit is gepleegd;
-   3. de persoon en het gedrag van de verdachte;
-   4. eventuele eerdere veroordelingen voor hetzelfde of soortgelijk feit.
-2. Bij meerdere slachtoffers kan, indien het betreffende artikel of de aard van het feit daartoe aanleiding geeft, een zwaardere straf worden opgelegd.
-3. Bij herhaald plegen van hetzelfde strafbare feit kan een zwaardere straf worden opgelegd.
+   <ol type="a">
+     <li>De ernst van het feit;.</li>
+     <li>De omstandigheden waaronder het feit is gepleegd;</li>
+     <li>De persoon en het gedrag van de verdachte</li>
+     <li>eventuele eerdere veroordelingen voor hetzelfde of soortgelijk feit;</li>
+     <li>Bij meerdere slachtoffers kan, indien het betreffende artikel of de aard van het feit daartoe aanleiding geeft, een zwaardere straf worden opgelegd.</li>
+     <li>Bij herhaald plegen van hetzelfde strafbare feit kan een zwaardere straf worden opgelegd.</li>
+   </ol>
 
 ---
 
