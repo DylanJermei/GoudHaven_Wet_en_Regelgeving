@@ -1,0 +1,59 @@
+site_name: United Roleplay - Wetboek & Regelgeving
+site_url: https://sitename.example
+site_description: Officiële wet- en regelgeving van United Roleplay
+site_author: United Roleplay
+
+theme:
+  name: material
+  language: nl
+  icon:
+    logo: material/scale-balance
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Donkere modus inschakelen
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Lichte modus inschakelen
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: false
+      toc_depth: 2-3
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Wetboek & Regelgeving:
+      - Strafrecht:
+          - Wetboek van Strafrecht United: WSRU.md
+      - Bijzondere wetten:
+          - Wet wapens en munitie United: WWMU.md
+          - Opiumwet United: OWU.md
+      - Verkeer:
+          - Wegenverkeerswet United: WVWU.md
+      - Lokale regelgeving:
+          - Algemene Plaatselijke Verordening United: APV United.md
