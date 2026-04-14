@@ -185,13 +185,12 @@
 
 1. Strafbare feiten verjaren als volgt:
       <ol type="a">
-     <li>1 t/m 150 maanden → 7 dagen;</li>
-     <li>151 t/m 250 maanden → 14 dagen;</li>
+     <li>Feiten zonder gevangenisstraf → 7 dagen;</li>
+     <li>1 t/m 150 maanden → 14 dagen;</li>
    </ol>
 2. Strafbare feiten die niet verjaren:
       <ol type="a">
-     <li>feiten vanaf 251 maanden;</li>
-     <li>feiten zonder gevangenisstraf;</li>
+     <li>feiten vanaf 151 maanden;</li>
    </ol>
 3. Rechtszaken kunnen verjaring verlengen tot 42 dagen.
 
@@ -201,10 +200,10 @@
 
 #### Artikel 22
 
-1. Indien er een gevangenis straf wordt uitgedeeld, krijgt de verdachte automatisch een strafblad.
+1. Indien een gevangenisstraf wordt opgelegd, krijgt de verdachte automatisch een strafblad
 2. Dit blijft één maand geregistreerd.
-3. Na één maand wordt er een automatisch een eerherstel uitgevoerd.
-4. Het strafblad kan gevolgen hebben voor functies en vergunningen.
+3. Na verloop van één maand vindt automatisch eerherstel plaats.
+4. Het strafblad kan gevolgen hebben voor functies binnen de overheid.
 
 ---
 
@@ -267,8 +266,8 @@
 
 #### Artikel 30
 
-1. Straf wordt verhoogd met 33% bij ambtenaar in functie.
-2. Straf wordt verlaagd met 33% bij poging.
+1. Straf wordt verhoogd met 33% indien het slachtoffer een ambtenaar in fuctie betreft.
+2. Straf wordt verlaagd met 33% bij poging tot een misdrijf.
 3. Dit geldt voor de totale straf.
 4. Combinatie is mogelijk mits redelijk.
 
@@ -367,21 +366,8 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 ---
 
 ### Artikel ?? - Openlijke geweldpleging
-1. Schuldig zijn persoonen die in vereniging openlijk geweld plegen tegen personen of goederen.
+1. Schuldig zijn personen die in vereniging openlijk geweld plegen tegen personen of goederen.
 2. Onder openlijk geweld wordt verstaan het in het openbaar en in groepsverband gebruiken van geweld.
-
-
-
-|                             | Taakstraf | Celstraf   | Boete    |
-| --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
-| **Tweede veroordeling**     | 30 uur    | -          | €4.000  |
-| **Meerdere veroordelingen** | 50 uur    | -          | €6.500  |
-
----
-
-### Artikel ?? - Openlijke geweldpleging
-1. Schuldig zijn de persoonen die in grope geweld plegen tegen personen of goederen.
 
 
 
@@ -467,7 +453,6 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ### Artikel ?? - Gijzeling
 1. Schuldig is een persoon die een ander wederrechtelijk van de vrijheid berooft met het doel een ander te dwingen iets te doen of na te laten.
-2. Schuldig is een persoon die opzettelijk informatie verstrekt of handelingen verricht om inbeslagname van bewijsmateriaal te voorkomen of te belemmeren.
 
 
 
@@ -491,3 +476,164 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 | **Meerdere veroordelingen** | -         | 25 Maanden | €10.000   |
 
 ---
+
+## Titel IV – Misdrijven tegen het leven en de lichamelijke integriteit
+
+### Artikel ?? - Bedreiging
+1. Schuldig is een persoon die een ander mondeling, schriftelijk of door feitelijkheden bedreigt met enig misdrijf tegen het leven of met zware mishandeling.
+2. Onder bedreiging wordt mede verstaan het tonen van een wapen of voorwerp met het kennelijke doel vrees aan te jagen.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
+| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
+
+---
+
+### Artikel ?? - Mishandeling
+1. Schuldig is een persoon die opzettelijk een ander pijn of letsel toebrengt.
+2. Onder mishandeling wordt mede verstaan het herhaaldelijk of langdurig fysiek geweld gebruiken zonder zwaar letsel te veroorzaken.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €2.500  |
+| **Tweede veroordeling**     | -         | 10 Maanden | €5.000  |
+| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000  |
+
+---
+
+### Artikel ?? - Zware mishandeling
+1. Schuldig is een persoon die opzettelijk een ander zwaar lichamelijk letsel toebrengt.
+2. Onder zwaar lichamelijk letsel wordt verstaan letsel dat van blijvende aard is of dat ernstig medisch ingrijpen vereist.
+3. Indien de dader gebruik maakt van een wapen of voorwerp, kan de straf met 33% worden verhoogd.
+
+|                             | Taakstraf | Celstraf    | Boete     |
+| --------------------------- | --------- | ----------- | --------- |
+| **Eerste veroordeling**     | -         | 25 Maanden  | €10.000   |
+| **Tweede veroordeling**     | -         | 45 Maanden  | €20.000   |
+| **Meerdere veroordelingen** | -         | 60 Maanden  | €30.000   |
+
+---
+
+### Artikel ?? - Doodslag
+1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
+
+|                             | Taakstraf | Celstraf     | Boete     |
+| --------------------------- | --------- | ------------ | --------- |
+| **Eerste veroordeling**     | -         | 120 Maanden  | €50.000   |
+| **Tweede veroordeling**     | -         | 180 Maanden  | €75.000   |
+| **Meerdere veroordelingen** | -         | 240 Maanden  | €100.000  |
+
+---
+
+### Artikel ?? - Moord
+1. Schuldig is een persoon die opzettelijk en met voorbedachte rade een ander van het leven berooft.
+2. Onder voorbedachte rade wordt verstaan dat de dader tijd en gelegenheid heeft gehad om over zijn daad na te denken.
+
+|                             | Taakstraf | Celstraf     | Boete      |
+| --------------------------- | --------- | ------------ | ---------- |
+| **Eerste veroordeling**     | -         | 180 Maanden  | €75.000    |
+| **Tweede veroordeling**     | -         | 240 Maanden  | €100.000   |
+| **Meerdere veroordelingen** | -         | 300 Maanden  | €150.000   |
+
+---
+
+### Artikel ?? - Dood door schuld
+1. Schuldig is een persoon die door schuld of nalatigheid de dood van een ander veroorzaakt.
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | -         | 30 Maanden | €10.000   |
+| **Tweede veroordeling**     | -         | 50 Maanden | €20.000   |
+| **Meerdere veroordelingen** | -         | 75 Maanden | €35.000   |
+
+---
+
+## Titel V – Misdrijven tegen eigendom en vermogen
+
+### Artikel ?? - Diefstal
+1. Schuldig is een persoon die een goed dat aan een ander toebehoort wegneemt met het oogmerk het zich wederrechtelijk toe te eigenen.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
+| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
+
+---
+
+### Artikel ?? - Diefstal met braak (inbraak)
+1. Schuldig is een persoon die zich toegang verschaft tot een gebouw of terrein door braak, verbreking of inklimming met het oogmerk diefstal te plegen.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 20 Maanden | €5.000  |
+| **Tweede veroordeling**     | -         | 35 Maanden | €10.000 |
+| **Meerdere veroordelingen** | -         | 50 Maanden | €15.000 |
+
+---
+
+### Artikel ?? - Diefstal met geweld (beroving)
+1. Schuldig is een persoon die een goed wegneemt en daarbij geweld of bedreiging met geweld gebruikt tegen personen.
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | -         | 25 Maanden | €7.500    |
+| **Tweede veroordeling**     | -         | 45 Maanden | €15.000   |
+| **Meerdere veroordelingen** | -         | 60 Maanden | €25.000   |
+
+---
+
+### Artikel ?? - Afpersing
+1. Schuldig is een persoon die een ander door geweld of bedreiging dwingt tot het afgeven van een goed.
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | -         | 25 Maanden | €10.000   |
+| **Tweede veroordeling**     | -         | 45 Maanden | €20.000   |
+| **Meerdere veroordelingen** | -         | 60 Maanden | €30.000   |
+
+---
+
+### Artikel ?? - Heling
+1. Schuldig is een persoon die een goed verwerft, voorhanden heeft of overdraagt, terwijl hij weet of redelijkerwijs moet vermoeden dat dit door misdrijf is verkregen.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.000  |
+| **Tweede veroordeling**     | -         | 15 Maanden | €6.000  |
+| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000 |
+
+---
+
+### Artikel ?? - Oplichting
+1. Schuldig is een persoon die door listige kunstgrepen, valse hoedanigheid of misleiding een ander beweegt tot afgifte van een goed.
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
+| **Tweede veroordeling**     | -         | 15 Maanden | €7.500    |
+| **Meerdere veroordelingen** | -         | 30 Maanden | €12.500   |
+
+---
+
+### Artikel ?? - Verduistering
+1. Schuldig is een persoon die opzettelijk een goed dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toe-eigent.
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.500    |
+| **Tweede veroordeling**     | 25 uur    | -          | €5.000    |
+| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000    |
+
+---
+
+### Artikel ?? - Vernieling
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort beschadigt, vernietigt of onbruikbaar maakt.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
+| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
