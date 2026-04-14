@@ -295,7 +295,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel I – Misdrijven tegen de openbare orde
 
-### Artikel ?? - Opzettelijk nalaten misdrijf te melden (135SR)
+### Artikel ?? - Opzettelijk nalaten misdrijf te melden
 1. Schuldig is een persoon die kennis draagt van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, het opzettelijk nalaat daarvan tijdig kennis tegeve aan de politie.
 
 
@@ -308,7 +308,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Huisvredebreuk (138SR)
+### Artikel ?? - Huisvredebreuk
 1. Schuldig is een persoon die in een woning, besloten lokaal, of erf bij een ander ingebruik binnendringt, of zich niet verwijderd op uitdrukkelijke vraag van de eigenaar.
 2. Zij die zichzelf toegangverschaft door braak, inklimming, gebruik valse sleutels, gebruik vals uniform, of wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
@@ -323,7 +323,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ??a - Kraken van panden (138aSR)
+### Artikel ??a - Kraken van panden
 1. Schuldig is een persoon die in een woning of gebouw, waarvan geen gebruik wordt gemaakt, binnendringt of zich daar bevind.
 2. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
 
@@ -336,7 +336,8 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 | **Meerdere veroordelingen** | 35 uur    | -          | €3.000  |
 
 ---
-### Artikel ??aa - Betreden van afgesloten transportzones (138aaSR)
+
+### Artikel ??aa - Betreden van afgesloten transportzones
 1. Schuldig is een persoon die zonder voorafgaand schriftelijke toestemming verblijft in een haven, luchthaven, of spoorweg gelegen besloten plaats voor distributie, opslag of overslag van goederen.
 2. De schuldige die zich toegang verschaft tot de in het eerslte lid vernoemde plaats door middel van een valse of niet aan betrokkene toebehorende toegangspas, een valse hoedanigheid of misleiding van een persoon, belast met bewaking van die plaats kan een strafverhoging krijgen van 10%.
 
@@ -350,4 +351,143 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
+### Artikel ?? - Lidmaatschap van criminele organisatie
+1. Schuldig is een persoon die deelneemt aan een organisatie die tot oogmerk heeft het plegen van misdrijven.
+2. Schuldig is een persoon die zijn werkzaamheid binnen een organisatie die bij onheroepelijke gerechterlijke beslissing verboden is verklaard voortzet.
+3. Ten aanzien van de oprichters, leiders, of bestuurders van organisaties zoals vermeld in lid 1, kunnen de straffen met 33% worden verhoogt.
 
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | -         | 25 Maanden | €5.000   |
+| **Tweede veroordeling**     | -         | 45 Maanden | €10.000  |
+| **Meerdere veroordelingen** | -         | 50 Maanden | €15.000  |
+
+---
+
+### Artikel ?? - Openlijke geweldpleging
+1. Schuldig zijn persoonen die in vereniging openlijk geweld plegen tegen personen of goederen.
+2. Onder openlijk geweld wordt verstaan het in het openbaar en in groepsverband gebruiken van geweld.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
+| **Tweede veroordeling**     | 30 uur    | -          | €4.000  |
+| **Meerdere veroordelingen** | 50 uur    | -          | €6.500  |
+
+---
+
+### Artikel ?? - Openlijke geweldpleging
+1. Schuldig zijn de persoonen die in grope geweld plegen tegen personen of goederen.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
+| **Tweede veroordeling**     | 30 uur    | -          | €4.000  |
+| **Meerdere veroordelingen** | 50 uur    | -          | €6.500  |
+
+---
+
+## Titel II – Misdrijven tegen het openbaar gezag
+
+### Artikel ?? - Omkoping van ambtenaar
+1. Schuldig is een persoon die een ambtenaar een gift, belofte of dienst aanbiedt met het oogmerk om hem te bewegen in zijn functie iets te doen of na te laten.
+2. Schuldig is een persoon die een feit zoals bedoeld in lid 1 pleegt jegens een persoon in het vooruitzicht van een dienstbetrekking binnen de overheid.
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | -         | 20 Maanden | €7.500   |
+| **Tweede veroordeling**     | -         | 35 Maanden | €12.500  |
+| **Meerdere veroordelingen** | -         | 50 Maanden | €20.000  |
+
+---
+### Artikel ?? - Wederspannigheid
+1. Schuldig is een persoon die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar in de rechtmatige uitoefening van zijn functie.
+2. Onder wederspannigheid wordt mede verstaan het verzetten tegen personen die de ambtenaar ondersteunen.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €2.500   |
+| **Tweede veroordeling**     | -         | 10 Maanden | €5.000   |
+| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000   |
+
+---
+
+### Artikel ?? - Niet voldoen aan ambtelijk bevel
+1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering, gedaan door een bevoegde ambtenaar.
+2. Schuldig is een persoon die een handeling van een ambtenaar, uitgevoerd in het kader van zijn functie, belemmert, verhindert of verijdelt.
+3. Onder ambtenaar wordt mede verstaan een persoon belast met een openbare dienst.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
+| **Tweede veroordeling**     | 25 uur    | -          | €4.000   |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500   |
+
+---
+
+### Artikel ?? - Valse aangifte
+1. Schuldig is een persoon die aangifte of klacht doet van een strafbaar feit, terwijl hij weet dat dit feit niet gepleegd is.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | -         | -          | €3.000   |
+| **Tweede veroordeling**     | -         | -          | €5.000   |
+| **Meerdere veroordelingen** | 20 uur    | -          | €8.500   |
+
+---
+
+### Artikel ?? - Belemmering van justitie
+1. Schuldig is een persoon die opzettelijk een verdachte of schuldige van een misdrijf helpt bij het ontkomen aan opsporing of aanhouding.
+2. Schuldig is een persoon die opzettelijk informatie verstrekt of handelingen verricht om inbeslagname van bewijsmateriaal te voorkomen of te belemmeren.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000    |
+| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000   |
+
+---
+
+## Titel III – Misdrijven tegen de persoonlijke vrijheid
+
+### Artikel ?? - Gijzeling
+1. Schuldig is een persoon die een ander wederrechtelijk van de vrijheid berooft met het doel een ander te dwingen iets te doen of na te laten.
+2. Schuldig is een persoon die opzettelijk informatie verstrekt of handelingen verricht om inbeslagname van bewijsmateriaal te voorkomen of te belemmeren.
+
+
+
+|                             | Taakstraf | Celstraf    | Boete     |
+| --------------------------- | --------- | ----------- | --------- |
+| **Eerste veroordeling**     | -         | 45 Maanden  | €15.000   |
+| **Tweede veroordeling**     | -         | 75 Maanden  | €25.000   |
+| **Meerdere veroordelingen** | -         | 100 Maanden | €40.000   |
+
+---
+
+### Artikel ?? - Dwang
+1. Schuldig is een persoon die een ander door geweld, bedreiging of andere feitelijkheden dwingt iets te doen, niet te doen of te dulden
+
+
+
+|                             | Taakstraf | Celstraf   | Boete     |
+| --------------------------- | --------- | ---------- | --------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000    |
+| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000   |
+
+---
