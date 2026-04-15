@@ -1,93 +1,96 @@
 /* =========================================================
-   Universe Roleplay - Wetboek & Regelgeving
-   Clean legal docs theme
+   Universe Roleplay - Modern & playful legal docs theme
+   Clean, fresh, app-like
    ========================================================= */
 
 /* ---------- Light mode ---------- */
 :root {
-  --md-primary-fg-color: #0b1220;
-  --md-accent-fg-color: #2563eb;
+  --md-primary-fg-color: #4f46e5;
+  --md-accent-fg-color: #7c3aed;
 
-  --app-bg: #eef2f6;
-  --header-bg: #0b1220;
-  --header-text: #f8fafc;
+  --app-bg: linear-gradient(180deg, #f8faff 0%, #eef4ff 100%);
+  --header-bg: rgba(255, 255, 255, 0.75);
+  --header-text: #111827;
 
-  --sidebar-bg: #f6f8fb;
+  --sidebar-bg: rgba(255, 255, 255, 0.78);
   --sidebar-text: #1f2937;
   --sidebar-muted: #6b7280;
 
-  --content-bg: #ffffff;
-  --content-soft: #f8fafc;
-
-  --toc-bg: #f8fafc;
+  --content-bg: rgba(255, 255, 255, 0.9);
+  --content-soft: #f8fbff;
+  --toc-bg: rgba(255, 255, 255, 0.72);
 
   --text: #1f2937;
   --muted: #6b7280;
-  --heading: #111827;
+  --heading: #0f172a;
 
-  --border: #d9e1ea;
-  --border-soft: #e7edf4;
+  --border: rgba(99, 102, 241, 0.12);
+  --border-soft: rgba(99, 102, 241, 0.08);
 
-  --link: #2563eb;
-  --link-hover: #1d4ed8;
+  --link: #4f46e5;
+  --link-hover: #7c3aed;
 
-  --nav-hover: #eaf0f7;
-  --nav-active-bg: #1f3b63;
+  --nav-hover: rgba(79, 70, 229, 0.08);
+  --nav-active-bg: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
   --nav-active-text: #ffffff;
 
-  --toc-active: #2563eb;
-  --toc-active-bg: rgba(37, 99, 235, 0.10);
+  --toc-active: #4f46e5;
+  --toc-active-bg: rgba(79, 70, 229, 0.10);
 
-  --table-head: #eef3f8;
-  --table-alt: #fafbfd;
+  --table-head: #eef2ff;
+  --table-alt: #f8faff;
   --code-bg: #f3f4f6;
 
-  --shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --shadow-sm: 0 4px 12px rgba(15, 23, 42, 0.06);
+  --shadow-md: 0 10px 30px rgba(79, 70, 229, 0.10);
+  --shadow-lg: 0 18px 50px rgba(15, 23, 42, 0.10);
+  --radius: 18px;
 }
 
 /* ---------- Dark mode ---------- */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #08101d;
+  --md-primary-fg-color: #8b5cf6;
   --md-accent-fg-color: #60a5fa;
 
-  --app-bg: #0b1120;
-  --header-bg: #08101d;
+  --app-bg: linear-gradient(180deg, #0b1020 0%, #11162a 100%);
+  --header-bg: rgba(15, 23, 42, 0.72);
   --header-text: #f8fafc;
 
-  --sidebar-bg: #0f172a;
+  --sidebar-bg: rgba(17, 24, 39, 0.78);
   --sidebar-text: #e5e7eb;
   --sidebar-muted: #94a3b8;
 
-  --content-bg: #111827;
-  --content-soft: #0f172a;
-
-  --toc-bg: #0f172a;
+  --content-bg: rgba(17, 24, 39, 0.88);
+  --content-soft: #111827;
+  --toc-bg: rgba(15, 23, 42, 0.76);
 
   --text: #e5e7eb;
   --muted: #94a3b8;
-  --heading: #f8fafc;
+  --heading: #ffffff;
 
-  --border: #243041;
-  --border-soft: #1b2533;
+  --border: rgba(139, 92, 246, 0.16);
+  --border-soft: rgba(139, 92, 246, 0.10);
 
-  --link: #60a5fa;
-  --link-hover: #93c5fd;
+  --link: #a78bfa;
+  --link-hover: #c4b5fd;
 
-  --nav-hover: #172132;
-  --nav-active-bg: #1d4ed8;
+  --nav-hover: rgba(139, 92, 246, 0.12);
+  --nav-active-bg: linear-gradient(135deg, #7c3aed 0%, #2563eb 100%);
   --nav-active-text: #ffffff;
 
-  --toc-active: #93c5fd;
-  --toc-active-bg: rgba(96, 165, 250, 0.12);
+  --toc-active: #c4b5fd;
+  --toc-active-bg: rgba(139, 92, 246, 0.14);
 
-  --table-head: #172132;
-  --table-alt: #0f1724;
-  --code-bg: #0b1320;
+  --table-head: #1e293b;
+  --table-alt: #111827;
+  --code-bg: #0f172a;
 
-  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.18);
+  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.28);
+  --shadow-lg: 0 18px 50px rgba(0, 0, 0, 0.35);
 }
 
-/* ---------- Basis ---------- */
+/* ---------- Base ---------- */
 html,
 body,
 .md-container,
@@ -97,12 +100,17 @@ body,
   color: var(--text) !important;
 }
 
+body {
+  background-attachment: fixed !important;
+}
+
 .md-grid {
-  max-width: 1560px;
+  max-width: 1600px;
 }
 
 .md-main__inner {
   margin-top: 0 !important;
+  gap: 1.2rem;
 }
 
 .md-sidebar__scrollwrap,
@@ -114,8 +122,10 @@ body,
 .md-header {
   background: var(--header-bg) !important;
   color: var(--header-text) !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
-  box-shadow: none !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border-soft) !important;
+  box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06) !important;
 }
 
 .md-header__title,
@@ -126,35 +136,45 @@ body,
 }
 
 .md-header__title {
-  font-weight: 700 !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.01em;
 }
 
 .md-search__form {
-  background: rgba(255, 255, 255, 0.08) !important;
-  border: 1px solid rgba(255, 255, 255, 0.08) !important;
-  border-radius: 10px !important;
+  background: rgba(255, 255, 255, 0.55) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 999px !important;
   box-shadow: none !important;
+}
+
+[data-md-color-scheme="slate"] .md-search__form {
+  background: rgba(255, 255, 255, 0.05) !important;
 }
 
 .md-search__input {
   color: var(--header-text) !important;
-  font-size: 0.82rem !important;
+  font-size: 0.85rem !important;
 }
 
 .md-search__input::placeholder {
-  color: rgba(255, 255, 255, 0.72) !important;
+  color: var(--muted) !important;
 }
 
-/* ---------- Linker sidebar ---------- */
+/* ---------- Primary sidebar ---------- */
 .md-sidebar--primary {
-  width: 16rem !important;
+  width: 18rem !important;
 }
 
 .md-sidebar--primary .md-sidebar__inner {
   background: var(--sidebar-bg) !important;
-  border-right: 1px solid var(--border) !important;
-  min-height: calc(100vh - 2.4rem);
-  padding: 1rem 0 !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-md) !important;
+  border-radius: calc(var(--radius) + 2px);
+  min-height: calc(100vh - 5rem);
+  margin: 1rem 0 1rem 1rem;
+  padding: 1rem 0.6rem !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
 }
 
 .md-nav--primary .md-nav__title {
@@ -164,29 +184,31 @@ body,
   font-size: 0.72rem !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.06em !important;
-  padding: 0.9rem 1.2rem 0.55rem !important;
+  letter-spacing: 0.08em !important;
+  padding: 0.6rem 0.9rem 0.7rem !important;
 }
 
 .md-nav__item .md-nav__link {
   color: var(--sidebar-text) !important;
-  font-size: 0.82rem !important;
+  font-size: 0.86rem !important;
   line-height: 1.42 !important;
-  border-radius: 8px !important;
-  padding: 0.58rem 0.9rem !important;
-  margin: 0.08rem 0.8rem !important;
-  transition: background 0.15s ease, color 0.15s ease !important;
+  border-radius: 14px !important;
+  padding: 0.7rem 0.9rem !important;
+  margin: 0.14rem 0.4rem !important;
+  transition: all 0.18s ease !important;
 }
 
 .md-nav__item .md-nav__link:hover {
   background: var(--nav-hover) !important;
   color: var(--link-hover) !important;
+  transform: translateX(2px);
 }
 
 .md-nav__item .md-nav__link--active {
   background: var(--nav-active-bg) !important;
   color: var(--nav-active-text) !important;
   font-weight: 700 !important;
+  box-shadow: 0 8px 20px rgba(79, 70, 229, 0.18);
 }
 
 .md-nav__item--nested > .md-nav__link {
@@ -194,49 +216,58 @@ body,
 }
 
 .md-nav__list .md-nav__list {
-  margin-left: 0.2rem !important;
+  margin-left: 0.35rem !important;
+  padding-left: 0.2rem !important;
+  border-left: 1px solid var(--border-soft);
 }
 
 .md-nav__list .md-nav__list .md-nav__link {
-  padding-left: 0.95rem !important;
+  padding-left: 0.85rem !important;
+  font-size: 0.81rem !important;
 }
 
-/* ---------- Rechter inhoudsopgave ---------- */
+/* ---------- Secondary sidebar / TOC ---------- */
 .md-sidebar--secondary {
-  width: 16rem !important;
+  width: 17rem !important;
 }
 
 .md-sidebar--secondary .md-sidebar__inner {
   background: var(--toc-bg) !important;
-  border-left: 1px solid var(--border) !important;
-  min-height: calc(100vh - 2.4rem);
-  padding: 1rem 1rem 1rem 1rem !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-sm) !important;
+  border-radius: calc(var(--radius) + 2px);
+  min-height: calc(100vh - 5rem);
+  margin: 1rem 1rem 1rem 0;
+  padding: 1rem !important;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
 }
 
 .md-sidebar--secondary .md-nav__title {
   background: transparent !important;
   box-shadow: none !important;
   color: var(--heading) !important;
-  font-size: 0.76rem !important;
+  font-size: 0.74rem !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.04em !important;
-  padding: 0 0 0.7rem 0 !important;
+  letter-spacing: 0.08em !important;
+  padding: 0 0 0.85rem 0 !important;
 }
 
 .md-nav--secondary .md-nav__link {
   color: var(--muted) !important;
-  font-size: 0.76rem !important;
+  font-size: 0.78rem !important;
   line-height: 1.45 !important;
-  padding: 0.22rem 0.45rem !important;
-  margin: 0.08rem 0 !important;
-  border-radius: 8px !important;
+  padding: 0.38rem 0.6rem !important;
+  margin: 0.12rem 0 !important;
+  border-radius: 10px !important;
   display: block !important;
+  transition: all 0.16s ease !important;
 }
 
 .md-nav--secondary .md-nav__link:hover {
   color: var(--link) !important;
-  background: transparent !important;
+  background: var(--nav-hover) !important;
 }
 
 .md-nav--secondary .md-nav__link--active {
@@ -245,22 +276,33 @@ body,
   font-weight: 700 !important;
 }
 
-/* ---------- Content ---------- */
+/* ---------- Content wrapper ---------- */
 .md-content,
 .md-content__inner,
 .md-main__inner > .md-content {
-  background: var(--content-bg) !important;
+  background: transparent !important;
+}
+
+.md-main__inner > .md-content {
+  margin: 1rem 0;
 }
 
 .md-content__inner {
   margin: 0 !important;
-  padding: 1.45rem 2.2rem 3rem !important;
-  min-height: calc(100vh - 2.4rem);
+  padding: 2.2rem 2.5rem 3.2rem !important;
+  min-height: calc(100vh - 5rem);
+  background: var(--content-bg) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 24px !important;
+  box-shadow: var(--shadow-lg) !important;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
 }
 
 /* ---------- Breadcrumbs ---------- */
 .md-path {
-  font-size: 0.74rem !important;
+  font-size: 0.76rem !important;
+  margin-bottom: 0.9rem !important;
 }
 
 .md-path__link {
@@ -271,59 +313,60 @@ body,
   color: var(--link) !important;
 }
 
-/* ---------- Typografie ---------- */
+/* ---------- Typography ---------- */
 .md-typeset {
   color: var(--text) !important;
-  font-size: 0.82rem !important;
-  line-height: 1.72 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.78 !important;
 }
 
 .md-typeset p,
 .md-typeset li {
-  max-width: 88ch;
+  max-width: 85ch;
 }
 
 .md-typeset h1 {
   color: var(--heading) !important;
-  font-size: 1.78rem !important;
-  font-weight: 800 !important;
-  line-height: 1.2 !important;
+  font-size: 2.2rem !important;
+  font-weight: 900 !important;
+  line-height: 1.08 !important;
+  letter-spacing: -0.03em !important;
   margin: 0 0 1rem !important;
-}
-
-.md-typeset h2 {
-  color: var(--heading) !important;
-  font-size: 1.3rem !important;
-  font-weight: 800 !important;
-  line-height: 1.28 !important;
-  margin-top: 2rem !important;
-  margin-bottom: 0.7rem !important;
-}
-
-.md-typeset h3 {
-  color: var(--heading) !important;
-  font-size: 1rem !important;
-  font-weight: 750 !important;
-  margin-top: 1.55rem !important;
-  margin-bottom: 0.5rem !important;
-  padding-top: 0.2rem !important;
-}
-
-.md-typeset h4 {
-  color: var(--heading) !important;
-  font-size: 0.92rem !important;
-  font-weight: 750 !important;
-  margin-top: 1.2rem !important;
-  margin-bottom: 0.38rem !important;
-  padding-top: 0.15rem !important;
 }
 
 .md-typeset h1 + p {
   color: var(--muted) !important;
-  font-size: 0.86rem !important;
+  font-size: 1rem !important;
+  line-height: 1.7 !important;
+  margin-bottom: 1.4rem !important;
 }
 
-/* ---------- Scroll offset fix voor TOC ---------- */
+.md-typeset h2 {
+  color: var(--heading) !important;
+  font-size: 1.45rem !important;
+  font-weight: 850 !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
+  margin-top: 2.4rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.md-typeset h3 {
+  color: var(--heading) !important;
+  font-size: 1.08rem !important;
+  font-weight: 800 !important;
+  margin-top: 1.7rem !important;
+  margin-bottom: 0.45rem !important;
+}
+
+.md-typeset h4 {
+  color: var(--heading) !important;
+  font-size: 0.96rem !important;
+  font-weight: 750 !important;
+  margin-top: 1.2rem !important;
+  margin-bottom: 0.35rem !important;
+}
+
 .md-typeset h2,
 .md-typeset h3,
 .md-typeset h4 {
@@ -334,60 +377,70 @@ body,
 .md-typeset a {
   color: var(--link) !important;
   text-decoration: none !important;
+  font-weight: 600;
 }
 
 .md-typeset a:hover {
   color: var(--link-hover) !important;
   text-decoration: underline !important;
-  text-underline-offset: 2px !important;
+  text-underline-offset: 3px !important;
 }
 
-/* ---------- Lijnen ---------- */
+/* ---------- Divider ---------- */
 .md-typeset hr {
   border: 0 !important;
   border-top: 1px solid var(--border-soft) !important;
-  margin: 1.35rem 0 !important;
+  margin: 1.8rem 0 !important;
 }
 
-/* ---------- Lijsten ---------- */
+/* ---------- Lists ---------- */
 .md-typeset ul,
 .md-typeset ol {
-  padding-left: 1.2rem !important;
+  padding-left: 1.3rem !important;
 }
 
 .md-typeset li {
-  margin-bottom: 0.2rem !important;
+  margin-bottom: 0.3rem !important;
 }
 
 .md-typeset li::marker {
   color: var(--link) !important;
 }
 
-/* ---------- Tabellen ---------- */
+/* ---------- Tables ---------- */
 .md-typeset table:not([class]) {
   width: 100% !important;
-  max-width: 860px !important;
-  border-collapse: collapse !important;
+  max-width: 950px !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
   background: var(--content-bg) !important;
   border: 1px solid var(--border) !important;
-  margin: 0.95rem 0 1.35rem !important;
-  font-size: 0.73rem !important;
-  box-shadow: var(--shadow) !important;
+  border-radius: 16px !important;
+  overflow: hidden !important;
+  margin: 1.2rem 0 1.5rem !important;
+  font-size: 0.8rem !important;
+  box-shadow: var(--shadow-sm) !important;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.58rem 0.7rem !important;
-  border: 1px solid var(--border) !important;
+  padding: 0.8rem 0.9rem !important;
+  border-bottom: 1px solid var(--border-soft) !important;
   vertical-align: top !important;
-  line-height: 1.38 !important;
+  line-height: 1.45 !important;
+}
+
+.md-typeset table:not([class]) tr:last-child td {
+  border-bottom: none !important;
 }
 
 .md-typeset table:not([class]) th {
   background: var(--table-head) !important;
   color: var(--heading) !important;
   font-weight: 800 !important;
-  font-size: 0.69rem !important;
+  font-size: 0.73rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
 .md-typeset table:not([class]) tr:nth-child(even) td {
@@ -400,31 +453,48 @@ body,
   font-weight: 700 !important;
 }
 
-/* ---------- Code / details / quotes ---------- */
+/* ---------- Code ---------- */
 .md-typeset code {
   background: var(--code-bg) !important;
   color: var(--heading) !important;
-  border-radius: 6px !important;
-  padding: 0.12em 0.36em !important;
-  font-size: 0.8em !important;
+  border: 1px solid var(--border-soft) !important;
+  border-radius: 8px !important;
+  padding: 0.18em 0.42em !important;
+  font-size: 0.82em !important;
 }
 
+.md-typeset pre > code {
+  border-radius: 14px !important;
+}
+
+/* ---------- Blockquote ---------- */
 .md-typeset blockquote {
-  margin: 0.9rem 0 !important;
-  padding: 0.72rem 0.9rem !important;
-  border-left: 3px solid var(--link) !important;
+  margin: 1rem 0 !important;
+  padding: 0.95rem 1.1rem !important;
+  border-left: 4px solid var(--link) !important;
   background: var(--content-soft) !important;
   color: var(--muted) !important;
-  font-size: 0.8rem !important;
+  font-size: 0.84rem !important;
+  border-radius: 0 14px 14px 0 !important;
 }
 
+/* ---------- Admonitions / details ---------- */
 .md-typeset .admonition,
 .md-typeset details {
   border: 1px solid var(--border) !important;
-  border-radius: 8px !important;
-  box-shadow: none !important;
+  border-radius: 16px !important;
+  box-shadow: var(--shadow-sm) !important;
   background: var(--content-bg) !important;
-  font-size: 0.8rem !important;
+  font-size: 0.84rem !important;
+  overflow: hidden;
+}
+
+/* ---------- Buttons / tabs-ish elements ---------- */
+.md-top {
+  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%) !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  box-shadow: var(--shadow-md) !important;
 }
 
 /* ---------- Footer ---------- */
@@ -433,8 +503,8 @@ body,
 }
 
 .md-footer-meta {
-  background: var(--content-bg) !important;
-  border-top: 1px solid var(--border) !important;
+  background: transparent !important;
+  border-top: none !important;
 }
 
 /* ---------- Anchors ---------- */
@@ -442,7 +512,7 @@ body,
   display: none !important;
 }
 
-/* ---------- Mobiel ---------- */
+/* ---------- Mobile ---------- */
 @media screen and (max-width: 76.1875em) {
   .md-sidebar--secondary {
     display: none !important;
@@ -454,35 +524,42 @@ body,
 
   .md-sidebar--primary .md-sidebar__inner {
     min-height: auto !important;
-    padding: 0.75rem 0 !important;
+    margin: 0.8rem 0.8rem 0 !important;
+    padding: 0.8rem 0.5rem !important;
+    border-radius: 20px !important;
+  }
+
+  .md-main__inner > .md-content {
+    margin: 0.8rem !important;
   }
 
   .md-content__inner {
-    padding: 1.05rem 1rem 2rem !important;
+    padding: 1.35rem 1.1rem 2rem !important;
     min-height: auto !important;
+    border-radius: 20px !important;
   }
 
   .md-typeset {
-    font-size: 0.8rem !important;
+    font-size: 0.86rem !important;
   }
 
   .md-typeset h1 {
-    font-size: 1.45rem !important;
+    font-size: 1.65rem !important;
   }
 
   .md-typeset h2 {
-    font-size: 1.14rem !important;
+    font-size: 1.2rem !important;
   }
 
   .md-typeset h3 {
-    font-size: 0.94rem !important;
+    font-size: 0.98rem !important;
   }
 
   .md-typeset h4 {
-    font-size: 0.88rem !important;
+    font-size: 0.9rem !important;
   }
 
   .md-typeset table:not([class]) {
-    font-size: 0.71rem !important;
+    font-size: 0.74rem !important;
   }
 }
