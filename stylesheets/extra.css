@@ -1,8 +1,9 @@
 /* =========================================================
    Universe Roleplay - Wetboek & Regelgeving
-   Clean docs theme with real light + dark mode
+   Clean legal docs theme
    ========================================================= */
 
+/* ---------- Light mode ---------- */
 :root {
   --md-primary-fg-color: #0b1220;
   --md-accent-fg-color: #2563eb;
@@ -35,6 +36,7 @@
   --nav-active-text: #ffffff;
 
   --toc-active: #2563eb;
+  --toc-active-bg: rgba(37, 99, 235, 0.10);
 
   --table-head: #eef3f8;
   --table-alt: #fafbfd;
@@ -43,7 +45,7 @@
   --shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
 }
 
-/* Echte dark mode */
+/* ---------- Dark mode ---------- */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: #08101d;
   --md-accent-fg-color: #60a5fa;
@@ -76,6 +78,7 @@
   --nav-active-text: #ffffff;
 
   --toc-active: #93c5fd;
+  --toc-active-bg: rgba(96, 165, 250, 0.12);
 
   --table-head: #172132;
   --table-alt: #0f1724;
@@ -207,7 +210,7 @@ body,
   background: var(--toc-bg) !important;
   border-left: 1px solid var(--border) !important;
   min-height: calc(100vh - 2.4rem);
-  padding: 1rem 1rem 1rem 1.15rem !important;
+  padding: 1rem 1rem 1rem 1rem !important;
 }
 
 .md-sidebar--secondary .md-nav__title {
@@ -218,20 +221,28 @@ body,
   font-weight: 800 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.04em !important;
-  padding: 0 0 0.85rem 0 !important;
+  padding: 0 0 0.7rem 0 !important;
 }
 
 .md-nav--secondary .md-nav__link {
   color: var(--muted) !important;
-  font-size: 0.77rem !important;
+  font-size: 0.76rem !important;
   line-height: 1.45 !important;
-  padding: 0.16rem 0 !important;
+  padding: 0.22rem 0.45rem !important;
+  margin: 0.08rem 0 !important;
+  border-radius: 8px !important;
+  display: block !important;
 }
 
-.md-nav--secondary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link:hover {
+  color: var(--link) !important;
+  background: transparent !important;
+}
+
 .md-nav--secondary .md-nav__link--active {
   color: var(--toc-active) !important;
-  font-weight: 600 !important;
+  background: var(--toc-active-bg) !important;
+  font-weight: 700 !important;
 }
 
 /* ---------- Content ---------- */
@@ -295,6 +306,7 @@ body,
   font-weight: 750 !important;
   margin-top: 1.55rem !important;
   margin-bottom: 0.5rem !important;
+  padding-top: 0.2rem !important;
 }
 
 .md-typeset h4 {
@@ -303,11 +315,19 @@ body,
   font-weight: 750 !important;
   margin-top: 1.2rem !important;
   margin-bottom: 0.38rem !important;
+  padding-top: 0.15rem !important;
 }
 
 .md-typeset h1 + p {
   color: var(--muted) !important;
   font-size: 0.86rem !important;
+}
+
+/* ---------- Scroll offset fix voor TOC ---------- */
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  scroll-margin-top: 5.5rem;
 }
 
 /* ---------- Links ---------- */
