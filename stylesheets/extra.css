@@ -49,7 +49,7 @@ body,
 }
 
 .md-grid {
-  max-width: 1500px;
+  max-width: 1480px;
 }
 
 /* Header */
@@ -88,19 +88,19 @@ body,
 /* Layout */
 .md-content__inner {
   margin: 0;
-  padding: 1.8rem 0 3rem;
+  padding: 1.4rem 0 2.5rem;
   background: transparent;
 }
 
 .md-typeset {
   color: var(--text);
-  font-size: 0.95rem;
-  line-height: 1.75;
+  font-size: 0.84rem;
+  line-height: 1.65;
 }
 
 .md-typeset p,
 .md-typeset li {
-  max-width: 88ch;
+  max-width: 86ch;
 }
 
 /* Sidebar */
@@ -114,14 +114,15 @@ body,
   box-shadow: none;
   color: var(--primary);
   font-weight: 800;
-  font-size: 0.9rem;
+  font-size: 0.82rem;
 }
 
 .md-nav__item .md-nav__link {
   color: var(--text);
   border-radius: 6px;
-  padding: 0.45rem 0.7rem;
+  padding: 0.4rem 0.65rem;
   transition: background 0.15s ease, color 0.15s ease;
+  font-size: 0.8rem;
 }
 
 .md-nav__item .md-nav__link:hover {
@@ -142,7 +143,7 @@ body,
 /* Secondary TOC */
 .md-sidebar--secondary .md-sidebar__inner {
   border-left: 1px solid var(--border);
-  padding-left: 1rem;
+  padding-left: 0.85rem;
 }
 
 .md-sidebar--secondary .md-nav__title {
@@ -150,12 +151,14 @@ body,
   box-shadow: none;
   color: var(--primary);
   font-weight: 700;
+  font-size: 0.8rem;
 }
 
 .md-nav--secondary .md-nav__link {
   color: var(--muted);
-  font-size: 0.78rem;
-  padding: 0.12rem 0;
+  font-size: 0.72rem;
+  padding: 0.1rem 0;
+  line-height: 1.35;
 }
 
 .md-nav--secondary .md-nav__link:hover,
@@ -166,41 +169,41 @@ body,
 /* Headings */
 .md-typeset h1 {
   color: var(--primary);
-  font-size: 2.1rem;
+  font-size: 1.75rem;
   font-weight: 800;
   line-height: 1.2;
-  margin: 0 0 1rem;
-  padding-bottom: 0.8rem;
+  margin: 0 0 0.8rem;
+  padding-bottom: 0.65rem;
   border-bottom: 1px solid var(--border-strong);
 }
 
 .md-typeset h2 {
   color: var(--primary);
-  font-size: 1.45rem;
+  font-size: 1.2rem;
   font-weight: 750;
-  margin-top: 2.4rem;
-  margin-bottom: 0.8rem;
+  margin-top: 2rem;
+  margin-bottom: 0.65rem;
 }
 
 .md-typeset h3 {
   color: var(--primary);
-  font-size: 1.08rem;
+  font-size: 0.98rem;
   font-weight: 700;
-  margin-top: 1.8rem;
-  margin-bottom: 0.45rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.35rem;
 }
 
 .md-typeset h4 {
   color: var(--primary);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 700;
-  margin-top: 1.5rem;
-  margin-bottom: 0.4rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.3rem;
 }
 
 .md-typeset h1 + p {
   color: var(--muted);
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 /* Links */
@@ -219,47 +222,49 @@ body,
 .md-typeset hr {
   border: 0;
   border-top: 1px solid var(--border);
-  margin: 1.5rem 0;
+  margin: 1.2rem 0;
 }
 
 /* Blockquote */
 .md-typeset blockquote {
-  margin: 1rem 0;
-  padding: 0.9rem 1rem;
+  margin: 0.9rem 0;
+  padding: 0.75rem 0.9rem;
   border-left: 3px solid var(--accent);
   background: var(--surface-2);
   color: var(--muted);
+  font-size: 0.8rem;
 }
 
 /* Tables */
 .md-typeset table:not([class]) {
   width: 100%;
-  max-width: 1000px;
+  max-width: 920px;
   border-collapse: collapse;
   background: var(--surface);
   border: 1px solid var(--border);
-  margin: 1.2rem 0 1.8rem;
-  font-size: 0.84rem;
+  margin: 1rem 0 1.4rem;
+  font-size: 0.76rem;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.85rem 0.9rem;
+  padding: 0.65rem 0.75rem;
   border: 1px solid var(--border);
   vertical-align: top;
+  line-height: 1.45;
 }
 
 .md-typeset table:not([class]) th {
   background: var(--table-head);
   color: var(--primary);
   font-weight: 800;
+  font-size: 0.72rem;
 }
 
 .md-typeset table:not([class]) tr:nth-child(even) td {
   background: var(--table-alt);
 }
 
-/* Metadata table bovenaan */
 .md-typeset table:not([class]) td:first-child,
 .md-typeset table:not([class]) th:first-child {
   width: 32%;
@@ -269,11 +274,11 @@ body,
 /* Lists */
 .md-typeset ul,
 .md-typeset ol {
-  padding-left: 1.25rem;
+  padding-left: 1.15rem;
 }
 
 .md-typeset li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.2rem;
 }
 
 .md-typeset li::marker {
@@ -285,8 +290,8 @@ body,
   background: var(--code-bg);
   color: var(--primary);
   border-radius: 6px;
-  padding: 0.15em 0.4em;
-  font-size: 0.84em;
+  padding: 0.12em 0.36em;
+  font-size: 0.8em;
 }
 
 /* Details/admonitions */
@@ -295,6 +300,7 @@ body,
   border: 1px solid var(--border);
   border-radius: 8px;
   box-shadow: none;
+  font-size: 0.8rem;
 }
 
 /* Hide anchor icon */
@@ -319,19 +325,31 @@ body,
   }
 
   .md-typeset {
-    font-size: 0.9rem;
+    font-size: 0.82rem;
   }
 
   .md-typeset h1 {
-    font-size: 1.7rem;
+    font-size: 1.45rem;
   }
 
   .md-typeset h2 {
-    font-size: 1.25rem;
+    font-size: 1.08rem;
+  }
+
+  .md-typeset h3 {
+    font-size: 0.92rem;
+  }
+
+  .md-typeset h4 {
+    font-size: 0.86rem;
+  }
+
+  .md-typeset table:not([class]) {
+    font-size: 0.72rem;
   }
 
   .md-typeset table:not([class]) th,
   .md-typeset table:not([class]) td {
-    padding: 0.7rem 0.75rem;
+    padding: 0.55rem 0.65rem;
   }
 }
