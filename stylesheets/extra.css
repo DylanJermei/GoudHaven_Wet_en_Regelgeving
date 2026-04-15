@@ -1,106 +1,109 @@
-/* =========================================================
-   UNIVERSE ROLEPLAY – CLEAN DOCS LAYOUT
-   Doel: donkere header + lichte docs-layout zoals referentie
-   ========================================================= */
-
 :root {
-  --ur-bg: #edf1f5;
-  --ur-header: #0b1220;
+  --md-primary-fg-color: #0f172a;
+  --md-accent-fg-color: #2563eb;
+
+  --ur-bg: #f2f4f7;
+  --ur-header: #0f172a;
   --ur-header-text: #f8fafc;
 
-  --ur-sidebar: #f3f5f8;
-  --ur-toc: #f6f8fb;
+  --ur-sidebar: #eef2f6;
+  --ur-sidebar-text: #1f2937;
+  --ur-sidebar-muted: #6b7280;
+
   --ur-content: #ffffff;
+  --ur-content-soft: #f8fafc;
+
+  --ur-toc: #f7f9fc;
 
   --ur-text: #1f2937;
-  --ur-muted: #6b7280;
-  --ur-heading: #111827;
+  --ur-muted: #667085;
+  --ur-heading: #101828;
 
-  --ur-border: #d8e0e8;
-  --ur-border-soft: #e8edf3;
+  --ur-border: #d9e2ec;
+  --ur-border-soft: #e9eef5;
 
-  --ur-link: #3b82f6;
-  --ur-link-hover: #2563eb;
+  --ur-link: #2563eb;
+  --ur-link-hover: #1d4ed8;
 
-  --ur-nav-hover: #e8edf4;
-  --ur-nav-active: #1f3b63;
-  --ur-nav-active-text: #ffffff;
+  --ur-nav-hover: #e3eaf3;
+  --ur-nav-active-bg: #dbeafe;
+  --ur-nav-active-text: #1d4ed8;
 
-  --ur-toc-active-bg: #dbeafe;
-  --ur-toc-active-text: #2563eb;
-
-  --ur-table-head: #eef3f8;
-  --ur-table-alt: #fafcfe;
+  --ur-table-head: #edf2f7;
+  --ur-table-alt: #fafbfd;
   --ur-code-bg: #f3f4f6;
 
-  --ur-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --ur-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
 }
 
-/* In jouw geval willen we dark mode NIET donker maken qua document-layout */
 [data-md-color-scheme="slate"] {
-  --ur-bg: #edf1f5;
-  --ur-header: #0b1220;
+  --md-primary-fg-color: #0f172a;
+  --md-accent-fg-color: #2563eb;
+
+  --ur-bg: #eef2f6;
+  --ur-header: #0f172a;
   --ur-header-text: #f8fafc;
 
-  --ur-sidebar: #f3f5f8;
-  --ur-toc: #f6f8fb;
+  --ur-sidebar: #eef2f6;
+  --ur-sidebar-text: #1f2937;
+  --ur-sidebar-muted: #6b7280;
+
   --ur-content: #ffffff;
+  --ur-content-soft: #f8fafc;
+
+  --ur-toc: #f7f9fc;
 
   --ur-text: #1f2937;
-  --ur-muted: #6b7280;
-  --ur-heading: #111827;
+  --ur-muted: #667085;
+  --ur-heading: #101828;
 
-  --ur-border: #d8e0e8;
-  --ur-border-soft: #e8edf3;
+  --ur-border: #d9e2ec;
+  --ur-border-soft: #e9eef5;
 
-  --ur-link: #3b82f6;
-  --ur-link-hover: #2563eb;
+  --ur-link: #2563eb;
+  --ur-link-hover: #1d4ed8;
 
-  --ur-nav-hover: #e8edf4;
-  --ur-nav-active: #1f3b63;
-  --ur-nav-active-text: #ffffff;
+  --ur-nav-hover: #e3eaf3;
+  --ur-nav-active-bg: #dbeafe;
+  --ur-nav-active-text: #1d4ed8;
 
-  --ur-toc-active-bg: #dbeafe;
-  --ur-toc-active-text: #2563eb;
-
-  --ur-table-head: #eef3f8;
-  --ur-table-alt: #fafcfe;
+  --ur-table-head: #edf2f7;
+  --ur-table-alt: #fafbfd;
   --ur-code-bg: #f3f4f6;
 
-  --ur-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --ur-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
 }
 
-/* ---------- Basis ---------- */
+/* basis */
 html,
-body {
-  background: var(--ur-bg) !important;
-  color: var(--ur-text) !important;
-}
-
 body,
 .md-main,
 .md-main__inner,
 .md-container {
   background: var(--ur-bg) !important;
+  color: var(--ur-text) !important;
 }
 
 .md-grid {
-  max-width: 1560px;
+  max-width: 1520px;
 }
 
-/* ---------- Header ---------- */
+.md-main__inner {
+  margin-top: 0 !important;
+}
+
+/* header */
 .md-header {
   background: var(--ur-header) !important;
   color: var(--ur-header-text) !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
   box-shadow: none !important;
 }
 
 .md-header__title,
 .md-header__topic,
 .md-header__button,
-.md-header__source,
-.md-tabs__link {
+.md-header__source {
   color: var(--ur-header-text) !important;
 }
 
@@ -117,58 +120,49 @@ body,
 
 .md-search__input {
   color: var(--ur-header-text) !important;
-  font-size: 0.82rem !important;
+  font-size: 0.81rem !important;
 }
 
 .md-search__input::placeholder {
-  color: rgba(255, 255, 255, 0.72) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
 }
 
-/* ---------- Hoofdlayout ---------- */
-.md-main__inner {
-  margin-top: 0 !important;
-}
-
-.md-sidebar,
-.md-content {
-  margin-top: 0 !important;
-}
-
+/* wrappers */
 .md-sidebar__scrollwrap,
 .md-sidebar__inner {
   background: transparent !important;
 }
 
-/* ---------- Linker sidebar ---------- */
+/* linker sidebar */
 .md-sidebar--primary {
-  width: 16rem !important;
+  width: 15.5rem !important;
 }
 
 .md-sidebar--primary .md-sidebar__inner {
   background: var(--ur-sidebar) !important;
   border-right: 1px solid var(--ur-border) !important;
-  padding: 1rem 0.8rem !important;
   min-height: calc(100vh - 2.4rem);
+  padding: 1rem 0.75rem !important;
 }
 
 .md-nav--primary .md-nav__title {
   background: transparent !important;
   box-shadow: none !important;
-  color: var(--ur-muted) !important;
+  color: var(--ur-sidebar-muted) !important;
   font-size: 0.72rem !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.06em !important;
-  padding: 0.9rem 0.65rem 0.45rem !important;
+  padding: 0.85rem 0.65rem 0.45rem !important;
 }
 
 .md-nav__item .md-nav__link {
-  color: var(--ur-text) !important;
-  font-size: 0.82rem !important;
+  color: var(--ur-sidebar-text) !important;
+  font-size: 0.81rem !important;
   line-height: 1.4 !important;
   border-radius: 8px !important;
-  padding: 0.58rem 0.72rem !important;
-  margin-bottom: 0.12rem !important;
+  padding: 0.56rem 0.72rem !important;
+  margin-bottom: 0.14rem !important;
   transition: background 0.15s ease, color 0.15s ease !important;
 }
 
@@ -178,7 +172,7 @@ body,
 }
 
 .md-nav__item .md-nav__link--active {
-  background: var(--ur-nav-active) !important;
+  background: var(--ur-nav-active-bg) !important;
   color: var(--ur-nav-active-text) !important;
   font-weight: 700 !important;
 }
@@ -188,81 +182,65 @@ body,
 }
 
 .md-nav__list .md-nav__list {
-  margin-left: 0.28rem !important;
+  margin-left: 0.25rem !important;
 }
 
 .md-nav__list .md-nav__list .md-nav__link {
   padding-left: 0.88rem !important;
 }
 
-/* ---------- Rechter TOC ---------- */
+/* rechter toc */
 .md-sidebar--secondary {
-  width: 16rem !important;
+  width: 15.5rem !important;
 }
 
 .md-sidebar--secondary .md-sidebar__inner {
   background: var(--ur-toc) !important;
   border-left: 1px solid var(--ur-border) !important;
-  padding: 1rem 1rem 1rem 1.1rem !important;
   min-height: calc(100vh - 2.4rem);
+  padding: 1rem 1rem 1rem 1.1rem !important;
 }
 
 .md-sidebar--secondary .md-nav__title {
   background: transparent !important;
   box-shadow: none !important;
   color: var(--ur-heading) !important;
-  font-size: 0.78rem !important;
+  font-size: 0.76rem !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.03em !important;
+  letter-spacing: 0.04em !important;
   padding: 0 0 0.85rem 0 !important;
 }
 
 .md-nav--secondary .md-nav__link {
   color: var(--ur-muted) !important;
-  font-size: 0.77rem !important;
+  font-size: 0.76rem !important;
   line-height: 1.45 !important;
   padding: 0.16rem 0 !important;
-  border-radius: 6px !important;
 }
 
-.md-nav--secondary .md-nav__link:hover {
-  color: var(--ur-link-hover) !important;
-}
-
+.md-nav--secondary .md-nav__link:hover,
 .md-nav--secondary .md-nav__link--active {
-  color: var(--ur-toc-active-text) !important;
-  font-weight: 700 !important;
+  color: var(--ur-link) !important;
+  font-weight: 600 !important;
 }
 
-/* ---------- Midden content: WIT! ---------- */
-.md-main__inner > .md-content {
-  background: var(--ur-content) !important;
-}
-
-.md-content {
+/* content */
+.md-content,
+.md-main__inner > .md-content,
+.md-content__inner {
   background: var(--ur-content) !important;
 }
 
 .md-content__inner {
-  background: var(--ur-content) !important;
   margin: 0 !important;
-  padding: 1.5rem 2.2rem 3rem !important;
+  padding: 1.45rem 2.1rem 3rem !important;
   min-height: calc(100vh - 2.4rem);
 }
 
-/* Soms zet Material extra wrappers donker; hard overschrijven */
-article,
-.md-typeset,
-.md-typeset__scrollwrap {
-  background: transparent !important;
-  color: var(--ur-text) !important;
-}
-
-/* ---------- Breadcrumbs ---------- */
+/* breadcrumbs */
 .md-path {
-  font-size: 0.75rem !important;
-  color: var(--ur-muted) !important;
+  font-size: 0.74rem !important;
 }
 
 .md-path__link {
@@ -273,11 +251,11 @@ article,
   color: var(--ur-link) !important;
 }
 
-/* ---------- Typografie ---------- */
+/* typografie */
 .md-typeset {
+  color: var(--ur-text) !important;
   font-size: 0.82rem !important;
   line-height: 1.7 !important;
-  color: var(--ur-text) !important;
 }
 
 .md-typeset p,
@@ -287,7 +265,7 @@ article,
 
 .md-typeset h1 {
   color: var(--ur-heading) !important;
-  font-size: 1.72rem !important;
+  font-size: 1.8rem !important;
   font-weight: 800 !important;
   line-height: 1.2 !important;
   margin: 0 0 1rem !important;
@@ -295,7 +273,7 @@ article,
 
 .md-typeset h2 {
   color: var(--ur-heading) !important;
-  font-size: 1.3rem !important;
+  font-size: 1.32rem !important;
   font-weight: 800 !important;
   line-height: 1.28 !important;
   margin-top: 2rem !important;
@@ -306,7 +284,6 @@ article,
   color: var(--ur-heading) !important;
   font-size: 1rem !important;
   font-weight: 750 !important;
-  line-height: 1.35 !important;
   margin-top: 1.55rem !important;
   margin-bottom: 0.5rem !important;
 }
@@ -315,8 +292,7 @@ article,
   color: var(--ur-heading) !important;
   font-size: 0.92rem !important;
   font-weight: 750 !important;
-  line-height: 1.35 !important;
-  margin-top: 1.22rem !important;
+  margin-top: 1.25rem !important;
   margin-bottom: 0.38rem !important;
 }
 
@@ -325,7 +301,7 @@ article,
   font-size: 0.86rem !important;
 }
 
-/* ---------- Links ---------- */
+/* links */
 .md-typeset a {
   color: var(--ur-link) !important;
   text-decoration: none !important;
@@ -337,7 +313,7 @@ article,
   text-underline-offset: 2px !important;
 }
 
-/* ---------- Lijsten ---------- */
+/* lijsten */
 .md-typeset ul,
 .md-typeset ol {
   padding-left: 1.2rem !important;
@@ -351,14 +327,14 @@ article,
   color: var(--ur-link) !important;
 }
 
-/* ---------- Horizontale lijnen ---------- */
+/* lijnen */
 .md-typeset hr {
   border: 0 !important;
   border-top: 1px solid var(--ur-border-soft) !important;
-  margin: 1.35rem 0 !important;
+  margin: 1.3rem 0 !important;
 }
 
-/* ---------- Tabellen ---------- */
+/* tabellen */
 .md-typeset table:not([class]) {
   width: 100% !important;
   max-width: 860px !important;
@@ -366,13 +342,13 @@ article,
   background: #ffffff !important;
   border: 1px solid var(--ur-border) !important;
   margin: 0.9rem 0 1.3rem !important;
-  font-size: 0.74rem !important;
+  font-size: 0.73rem !important;
   box-shadow: var(--ur-shadow) !important;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.58rem 0.7rem !important;
+  padding: 0.58rem 0.68rem !important;
   border: 1px solid var(--ur-border) !important;
   vertical-align: top !important;
   line-height: 1.38 !important;
@@ -382,7 +358,7 @@ article,
   background: var(--ur-table-head) !important;
   color: var(--ur-heading) !important;
   font-weight: 800 !important;
-  font-size: 0.7rem !important;
+  font-size: 0.69rem !important;
 }
 
 .md-typeset table:not([class]) tr:nth-child(even) td {
@@ -395,12 +371,12 @@ article,
   font-weight: 700 !important;
 }
 
-/* ---------- Quotes / code / details ---------- */
+/* code / quote / details */
 .md-typeset blockquote {
   margin: 0.9rem 0 !important;
-  padding: 0.75rem 0.9rem !important;
+  padding: 0.72rem 0.9rem !important;
   border-left: 3px solid var(--ur-link) !important;
-  background: #f7f9fc !important;
+  background: var(--ur-content-soft) !important;
   color: var(--ur-muted) !important;
   font-size: 0.8rem !important;
 }
@@ -418,11 +394,11 @@ article,
   border: 1px solid var(--ur-border) !important;
   border-radius: 8px !important;
   box-shadow: none !important;
-  font-size: 0.8rem !important;
   background: #ffffff !important;
+  font-size: 0.8rem !important;
 }
 
-/* ---------- Footer ---------- */
+/* footer */
 .md-footer {
   background: transparent !important;
 }
@@ -432,12 +408,12 @@ article,
   border-top: 1px solid var(--ur-border) !important;
 }
 
-/* ---------- Overig ---------- */
+/* anchors weg */
 .md-typeset .headerlink {
   display: none !important;
 }
 
-/* ---------- Mobiel ---------- */
+/* mobiel */
 @media screen and (max-width: 76.1875em) {
   .md-sidebar--secondary {
     display: none !important;
@@ -462,7 +438,7 @@ article,
   }
 
   .md-typeset h1 {
-    font-size: 1.45rem !important;
+    font-size: 1.5rem !important;
   }
 
   .md-typeset h2 {
@@ -475,5 +451,9 @@ article,
 
   .md-typeset h4 {
     font-size: 0.88rem !important;
+  }
+
+  .md-typeset table:not([class]) {
+    font-size: 0.71rem !important;
   }
 }
