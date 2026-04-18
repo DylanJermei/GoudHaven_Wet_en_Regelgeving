@@ -1,63 +1,88 @@
-# 📘 Wetboek Universe
+<div class="gh-hero">
+  <div class="gh-label">Officiële regelgeving</div>
+  <h1>Wetboek GoudHaven</h1>
+  <p>
+    Het officiële wetboek en de geldende regelgeving van GoudHaven Roleplay.
+    Dit platform vormt de juridische basis voor handhaving, berechting en naleving binnen de stad.
+  </p>
 
-Welkom bij het officiële **Wetboek Universe**.
+  <div class="gh-badges">
+    <span class="gh-badge">Actieve versie 1.0</span>
+    <span class="gh-badge">Laatste update 15-04-2026</span>
+    <span class="gh-badge">Status: Geldend</span>
+  </div>
+</div>
+
+## Welkom
+
+Welkom bij het officiële **Wetboek GoudHaven**.  
 Dit wetboek vormt de juridische basis voor alle handelingen binnen de stad en haar rechtsgebied.
 
----
-
-## ⚖️ Over dit wetboek
-
-Het Wetboek Universe bevat alle geldende wet- en regelgeving met betrekking tot:
-
-* Openbare orde en veiligheid
-* Strafrechtelijke bepalingen
-* Verkeerswetgeving
-* Economische en overige delicten
-
-De wetgeving is gebaseerd op realistische juridische kaders, geïnspireerd op bestaande wetboeken zoals het Nederlandse recht.
-
----
-
-## 📚 Inhoud
-
-* 🏛️ **Algemene bepalingen**
-* 💰 **Vermogensdelicten**
-* ⚔️ **Geweldsdelicten**
-* 🚗 **Verkeerswetgeving (WVWU)**
-* 💊 **Opiumwet**
-* 🔫 **Wet Wapens en Munitie**
-* 📜 **Overige bepalingen**
-* ⚖️ **Uitsluitingsgronden & strafvermindering**
-
+<div class="gh-grid">
+  <div class="gh-card">
+    <h3>⚖️ Strafrecht</h3>
+    <p>Algemene bepalingen, misdrijven, deelneming, voorlopige hechtenis en strafmaat.</p>
+  </div>
+  <div class="gh-card">
+    <h3>🚗 Verkeersrecht</h3>
+    <p>Gedragsregels in het verkeer, verkeersongevallen, rijontzegging en bijzondere feiten.</p>
+  </div>
+  <div class="gh-card">
+    <h3>🔫 Wapens & Munitie</h3>
+    <p>Indeling van wapens, verboden bezit, strafverzwarende omstandigheden en inbeslagneming.</p>
+  </div>
+  <div class="gh-card">
+    <h3>💊 Opiumwet</h3>
+    <p>Indeling van middelen, gebruikers- en handelshoeveelheden, handel en productie.</p>
+  </div>
+</div>
 
 ---
 
-## 🚓 Gebruik van het wetboek
+## Over dit wetboek
+
+Het Wetboek GoudHaven bevat alle geldende wet- en regelgeving met betrekking tot:
+
+- openbare orde en veiligheid;
+- strafrechtelijke bepalingen;
+- verkeerswetgeving;
+- economische en overige delicten.
+
+De wetgeving is gebaseerd op realistische juridische kaders, geïnspireerd op bestaande juridische systemen, maar toegespitst op de context van GoudHaven Roleplay.
+
+---
+
+## Gebruik van het wetboek
 
 Dit wetboek dient als leidraad voor:
 
-* Politie United
-* Justitie en rechtbank
-* Burgers en bedrijven
+- politie en handhavingsdiensten;
+- justitie en rechtbank;
+- burgers en bedrijven.
 
 ---
 
-## 📌 Belangrijke principes
+## Belangrijke principes
 
-* Iedereen wordt geacht de wet te kennen
-* Onschuld tot het tegendeel bewezen is
-* Straffen zijn proportioneel aan het delict
-* Misbruik van bevoegdheid is niet toegestaan
-
----
-
-## 🔍 Snel zoeken
-
-Gebruik de zoekfunctie rechtsboven om direct artikelen, delicten of wetgeving te vinden.
+- Iedereen wordt geacht de wet te kennen.
+- Onschuld geldt totdat het tegendeel is bewezen.
+- Straffen moeten proportioneel zijn aan het delict.
+- Misbruik van bevoegdheden is niet toegestaan.
 
 ---
 
-## 📅 Versiebeheer
+## Snel zoeken
+
+Gebruik de zoekfunctie rechtsboven om direct te zoeken op:
+
+- artikelnummer;
+- delict;
+- wetnaam;
+- strafsoort.
+
+---
+
+## Versiebeheer
 
 | Kenmerk        | Waarde     |
 | -------------- | ---------- |
@@ -67,10 +92,8 @@ Gebruik de zoekfunctie rechtsboven om direct artikelen, delicten of wetgeving te
 
 ---
 
-## 📖 Disclaimer
+## Disclaimer
 
-Dit wetboek is van toepassing binnen de context van Universe en kan afwijken van echte wetgeving.
-Bij interpretatiegeschillen ligt de eindbeslissing bij de bevoegde autoriteiten.
-Alle artikelen binnen dit wetboek kunnen ten alle tijden worden gewijzigd.
-
----
+Dit wetboek is uitsluitend van toepassing binnen de context van **GoudHaven Roleplay** en kan afwijken van werkelijke wetgeving.  
+Bij interpretatiegeschillen ligt de eindbeslissing bij de bevoegde autoriteiten binnen de server.  
+Alle artikelen binnen dit wetboek kunnen te allen tijde worden gewijzigd.

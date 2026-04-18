@@ -1,7 +1,7 @@
-site_name: Universe Roleplay - Wetboek & Regelgeving
-site_url: https://sitename.example
-site_description: Officiële wet- en regelgeving van Universe Roleplay
-site_author: Universe Roleplay
+site_name: GoudHaven Roleplay - Wetboek & Regelgeving
+site_url: https://wetboek.goud-haven.nl
+site_description: Officiële wet- en regelgeving van GoudHaven Roleplay
+site_author: GoudHaven Roleplay
 
 theme:
   name: material
@@ -30,18 +30,26 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.instant
     - search.highlight
     - search.suggest
     - toc.follow
     - content.code.copy
+    - content.tabs.link
+    - content.action.edit
 
 markdown_extensions:
   - tables
   - admonition
   - attr_list
   - md_in_html
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: false
       toc_depth: 2-3
@@ -49,15 +57,21 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  homepage: /
+  social:
+    - icon: fontawesome/solid/scale-balanced
+      link: "#"
+
 nav:
   - Home: index.md
   - Wetboek & Regelgeving:
       - Strafrecht:
-          - Wetboek van Strafrecht Universe: WSRU.md
+          - Wetboek van Strafrecht GoudHaven: WSRGH.md
       - Bijzondere wetten:
-          - Wet wapens en munitie Universe: WWMU.md
-          - Opiumwet Universe: OWU.md
+          - Wet wapens en munitie GoudHaven: WWMGH.md
+          - Opiumwet GoudHaven: OWGH.md
       - Verkeer:
-          - Wegenverkeerswet Universe: WVWU.md
+          - Wegenverkeerswet GoudHaven: WVWGH.md
       - Lokale regelgeving:
-          - Algemene Plaatselijke Verordening Universe: APV Universe.md
+          - Algemene Plaatselijke Verordening GoudHaven: APV GoudHaven.md

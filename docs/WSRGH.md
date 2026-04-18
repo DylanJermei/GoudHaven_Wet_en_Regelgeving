@@ -1,9 +1,9 @@
 | Kenmerk          | Waarde                          |
 | ---------------- | ------------------------------- |
-| Officiële naam   | Wetboek van Strafrecht Universe |
-| Citeertitel      | WSRU                            |
+| Officiële naam   | Wetboek van Strafrecht GoudHaven |
+| Citeertitel      | WSRGH                            |
 | Rechtsgebied     | Strafrecht                      |
-| Vastgesteld door | Het gerechtshof te Universe     |
+| Vastgesteld door | Het gerechtshof te GoudHaven     |
 | Inwerkingtreding | 15-04-2026                      |
 | Laatst gewijzigd | 15-04-2026                      |
 | Versie           | 1.0                             |
@@ -17,14 +17,14 @@
 
 #### Artikel 1
 
-1. Het Wetboek van Strafrecht Universe, hierna te noemen: WSRU, is van toepassing op alle strafbare feiten die binnen Universe Roleplay worden gepleegd.
+1. Het Wetboek van Strafrecht GoudHaven, hierna te noemen: WSRGH, is van toepassing op alle strafbare feiten die binnen GoudHaven Roleplay worden gepleegd.
 2. Onder strafbare feiten worden verstaan alle gedragingen die bij of krachtens dit wetboek strafbaar zijn gesteld.
 
 ---
 
 #### Artikel 2
 
-1. Dit wetboek is mede van toepassing op gedragingen buiten Universe Roleplay, voor zover deze gevolgen hebben binnen Universe Roleplay of de openbare orde, veiligheid of rechtsorde van Universe aantasten.
+1. Dit wetboek is mede van toepassing op gedragingen buiten GoudHaven Roleplay, voor zover deze gevolgen hebben binnen GoudHaven Roleplay of de openbare orde, veiligheid of rechtsorde van GoudHaven aantasten.
 2. Indien dit wetboek geen regeling bevat, kan aansluiting worden gezocht bij algemene rechtsbeginselen en redelijke wetsuitleg.
 
 ---
@@ -183,7 +183,7 @@
 
 #### Artikel 20
 
-1. Binnen Universe wordt geen onderscheid gemaakt tussen minderjarigen en meerderjarigen.
+1. Binnen GoudHaven wordt geen onderscheid gemaakt tussen minderjarigen en meerderjarigen.
 
 ---
 
@@ -311,7 +311,7 @@
 
 #### Artikel 33
 
-Dit wetboek wordt aangehaald als: Wetboek van Strafrecht Universe (WSRU).
+Dit wetboek wordt aangehaald als: Wetboek van Strafrecht GoudHaven (WSRGH).
 
 ---
 

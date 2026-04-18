@@ -1,11 +1,11 @@
-# Wet wapens en munitie Universe (WWMU)
+# Wet wapens en munitie GoudHaven (WWMGH)
 
 | Kenmerk          | Waarde                          |
 | ---------------- | ------------------------------- |
-| Officiële naam   | Wet wapens en munitie Universe |
-| Citeertitel      | WWMU                            |
+| Officiële naam   | Wet wapens en munitie GoudHaven |
+| Citeertitel      | WWMGH                            |
 | Rechtsgebied     | Strafrecht                      |
-| Vastgesteld door | Het gerechtshof te Universe     |
+| Vastgesteld door | Het gerechtshof te GoudHaven     |
 | Inwerkingtreding | 15-04-2026                      |
 | Laatst gewijzigd | 15-04-2026                      |
 | Versie           | 1.0                             |
@@ -175,7 +175,7 @@ In deze wet wordt verstaan onder:
 
 ### Artikel 12 – Citeertitel
 
-Deze wet wordt aangehaald als: Wet wapens en munitie Universe (WWMU).
+Deze wet wordt aangehaald als: Wet wapens en munitie GoudHaven (WWMGH).
 
 ---
 

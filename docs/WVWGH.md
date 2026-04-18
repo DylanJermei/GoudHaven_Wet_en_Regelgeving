@@ -1,9 +1,9 @@
 | Kenmerk          | Waarde                              |
 | ---------------- | ----------------------------------- |
-| Officiële naam   | Wegenverkeerswet Universe           |
-| Citeertitel      | WVWU                                |
+| Officiële naam   | Wegenverkeerswet GoudHaven           |
+| Citeertitel      | WVWGH                                |
 | Rechtsgebied     | Strafrecht / Verkeersrecht          |
-| Vastgesteld door | Het gerechtshof te Universe         |
+| Vastgesteld door | Het gerechtshof te GoudHaven         |
 | Inwerkingtreding | 01-04-2026                          |
 | Laatst gewijzigd | 15-04-2026                          |
 | Versie           | 1.1                                 |
@@ -11,7 +11,7 @@
 
 ---
 
-# Wegenverkeerswet Universe (WVWU)
+# Wegenverkeerswet GoudHaven (WVWGH)
 
 ---
 
@@ -155,7 +155,7 @@ In deze wet wordt verstaan onder:
 
 ### Artikel 10
 
-Deze wet wordt aangehaald als: Wegenverkeerswet Universe (WVWU).
+Deze wet wordt aangehaald als: Wegenverkeerswet GoudHaven (WVWGH).
 
 ---
 

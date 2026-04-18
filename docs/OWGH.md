@@ -1,9 +1,9 @@
 | Kenmerk          | Waarde                      |
 | ---------------- | --------------------------- |
-| Officiële naam   | Opiumwet Universe           |
-| Citeertitel      | OWU                         |
+| Officiële naam   | Opiumwet GoudHaven           |
+| Citeertitel      | OWGH                         |
 | Rechtsgebied     | Strafrecht                  |
-| Vastgesteld door | Het gerechtshof te Universe |
+| Vastgesteld door | Het gerechtshof te GoudHaven |
 | Inwerkingtreding | 15-04-2026                  |
 | Laatst gewijzigd | 15-04-2026                  |
 | Versie           | 1.0                         |
@@ -11,7 +11,7 @@
 
 ---
 
-# Opiumwet Universe (OWU)
+# Opiumwet GoudHaven (OWGH)
 
 ## Hoofdstuk I – Algemene bepalingen
 
@@ -162,7 +162,7 @@ In deze wet wordt verstaan onder:
 
 ### Artikel 9
 
-Deze wet wordt aangehaald als: Opiumwet Universe (OWU).
+Deze wet wordt aangehaald als: Opiumwet GoudHaven (OWGH).
 
 #### Artikel 10
 
