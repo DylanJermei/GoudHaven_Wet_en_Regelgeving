@@ -1,33 +1,49 @@
-/* Subtiele verfijning – behoud standaard Material look */
-
 :root {
-  --md-default-bg-color: #0b1118;
+  --md-default-bg-color: #10141c;
+  --md-default-fg-color: #e6eaf0;
+  --md-default-fg-color--light: #b8c0cc;
+  --md-default-fg-color--lighter: #8b96a5;
+  --md-accent-fg-color: #8ab4f8;
+  --md-primary-fg-color: #2b86d1;
+  --md-primary-fg-color--dark: #236ea9;
+  --md-typeset-a-color: #8ab4f8;
 }
 
-/* Typography iets strakker */
+/* Typografie */
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.75;
+}
+
 .md-typeset h1 {
   font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
+  color: #f3f6fb;
 }
 
 .md-typeset h2 {
   font-weight: 700;
   margin-top: 2rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-  padding-bottom: 0.3rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  color: #eef2f8;
 }
 
 .md-typeset h3 {
   font-weight: 600;
+  color: #e4e9f2;
 }
 
-/* Tekst iets rustiger */
 .md-typeset p,
 .md-typeset li {
-  line-height: 1.7;
+  color: #d4dbe5;
 }
 
-/* Links subtieler */
+.md-typeset strong {
+  color: #ffffff;
+}
+
+/* Links */
 .md-typeset a {
   text-decoration: none;
 }
@@ -36,19 +52,7 @@
   text-decoration: underline;
 }
 
-/* Tabellen netter */
-.md-typeset table:not([class]) {
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.md-typeset table:not([class]) th {
-  font-weight: 700;
-  background: rgba(255, 255, 255, 0.04);
-}
-
-/* Sidebar hover feedback */
+/* Navigatie */
 .md-nav__link {
   border-radius: 4px;
 }
@@ -57,18 +61,64 @@
   background: rgba(255, 255, 255, 0.04);
 }
 
-/* Actieve link iets duidelijker */
 .md-nav__link--active {
   font-weight: 700;
-  background: rgba(255, 255, 255, 0.06);
+  color: #9fc3ff !important;
+  background: rgba(138, 180, 248, 0.08);
 }
 
-/* Subtiele scheiding content */
+/* Content */
 .md-content__inner {
   padding-top: 1.2rem;
 }
 
-/* Scrollbar (kleine detail, maar nice) */
+/* Tabellen */
+.md-typeset table:not([class]) {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.2em 0;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.015);
+  font-size: 0.75rem;
+}
+
+.md-typeset table:not([class]) th {
+  background: rgba(138, 180, 248, 0.08);
+  color: #f5f8fc;
+  font-weight: 700;
+  text-align: left;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.8rem 1rem;
+  color: #d7deea;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.md-typeset table:not([class]) tr:last-child td {
+  border-bottom: none;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: rgba(138, 180, 248, 0.045);
+}
+
+/* Admonitions iets netter */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+}
+
+/* Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -78,8 +128,8 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
