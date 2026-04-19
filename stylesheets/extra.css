@@ -1,30 +1,87 @@
-/* Alleen subtiele verfijning, verder standaard Material laten werken */
+/* Subtiele verfijning – behoud standaard Material look */
 
 :root {
   --md-default-bg-color: #0b1118;
 }
 
+/* Typography iets strakker */
 .md-typeset h1 {
   font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 .md-typeset h2 {
   font-weight: 700;
   margin-top: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  padding-bottom: 0.3rem;
 }
 
 .md-typeset h3 {
   font-weight: 600;
 }
 
+/* Tekst iets rustiger */
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.7;
+}
+
+/* Links subtieler */
+.md-typeset a {
+  text-decoration: none;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Tabellen netter */
 .md-typeset table:not([class]) {
   border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  overflow: hidden;
 }
 
 .md-typeset table:not([class]) th {
   font-weight: 700;
+  background: rgba(255, 255, 255, 0.04);
 }
 
+/* Sidebar hover feedback */
+.md-nav__link {
+  border-radius: 4px;
+}
+
+.md-nav__link:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* Actieve link iets duidelijker */
 .md-nav__link--active {
   font-weight: 700;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* Subtiele scheiding content */
+.md-content__inner {
+  padding-top: 1.2rem;
+}
+
+/* Scrollbar (kleine detail, maar nice) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
 }
