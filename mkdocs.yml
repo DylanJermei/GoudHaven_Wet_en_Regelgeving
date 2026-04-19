@@ -6,8 +6,9 @@ site_author: GoudHaven Roleplay
 theme:
   name: material
   language: nl
+  custom_dir: overrides
   font:
-    text: Inter
+    text: Source Sans 3
     code: JetBrains Mono
   icon:
     logo: material/scale-balance
@@ -27,6 +28,7 @@ theme:
         icon: material/weather-sunny
         name: Lichte modus inschakelen
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top

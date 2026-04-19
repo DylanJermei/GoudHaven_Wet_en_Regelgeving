@@ -1,240 +1,273 @@
 :root {
-  --md-primary-fg-color: #111827;
-  --md-primary-fg-color--light: #1f2937;
-  --md-primary-fg-color--dark: #0b1220;
-  --md-accent-fg-color: #2563eb;
+  --md-primary-fg-color: #0076c8;
+  --md-primary-fg-color--light: #1987d2;
+  --md-primary-fg-color--dark: #005f9f;
+  --md-accent-fg-color: #0076c8;
 
-  --gh-bg: #f5f7fb;
+  --gh-bg: #f3f5f7;
   --gh-surface: #ffffff;
-  --gh-surface-secondary: #f8fafc;
-  --gh-border: #e5e7eb;
-  --gh-text: #111827;
-  --gh-text-muted: #6b7280;
-  --gh-heading: #0f172a;
-  --gh-radius: 14px;
-  --gh-shadow: 0 6px 20px rgba(15, 23, 42, 0.06);
+  --gh-surface-soft: #edf3f7;
+  --gh-border: #d7dde3;
+  --gh-text: #1f2933;
+  --gh-muted: #52616f;
+  --gh-heading: #154273;
+  --gh-link: #01689b;
+  --gh-radius: 0;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #0f172a;
-  --md-primary-fg-color--light: #1e293b;
-  --md-primary-fg-color--dark: #020617;
-  --md-accent-fg-color: #60a5fa;
+  --md-primary-fg-color: #0f62a5;
+  --md-primary-fg-color--light: #1d74bd;
+  --md-primary-fg-color--dark: #0a4f87;
+  --md-accent-fg-color: #5ab0ff;
 
-  --gh-bg: #0b1120;
-  --gh-surface: #111827;
-  --gh-surface-secondary: #172033;
-  --gh-border: rgba(255, 255, 255, 0.08);
-  --gh-text: #e5e7eb;
-  --gh-text-muted: #94a3b8;
-  --gh-heading: #f8fafc;
-  --gh-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+  --gh-bg: #0f1419;
+  --gh-surface: #161c22;
+  --gh-surface-soft: #202830;
+  --gh-border: #2e3944;
+  --gh-text: #e6edf3;
+  --gh-muted: #9eb0c0;
+  --gh-heading: #8fc7ff;
+  --gh-link: #7dc4ff;
 }
 
-/* Pagina-achtergrond */
+/* Basis */
 body {
   background: var(--gh-bg);
 }
 
-/* Header strak en neutraal */
+.md-main__inner {
+  max-width: 1280px;
+  margin-top: 2rem;
+}
+
+/* Topbalk */
 .md-header {
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+  box-shadow: none;
 }
 
 .md-tabs {
-  box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.04);
+  background: var(--md-primary-fg-color);
 }
 
-/* Content container */
-.md-main__inner {
-  margin-top: 1rem;
-}
-
-.md-content__inner {
-  background: var(--gh-surface);
-  border: 1px solid var(--gh-border);
-  border-radius: 18px;
-  padding: 2rem;
-  box-shadow: var(--gh-shadow);
-}
-
-/* Typografie */
-.md-typeset {
-  color: var(--gh-text);
-  font-size: 0.79rem;
-  line-height: 1.75;
-}
-
-.md-typeset h1 {
-  color: var(--gh-heading);
-  font-weight: 750;
-  font-size: 2rem;
-  line-height: 1.2;
-  margin-bottom: 1rem;
-  letter-spacing: -0.03em;
-}
-
-.md-typeset h2 {
-  color: var(--gh-heading);
-  font-weight: 700;
-  font-size: 1.35rem;
-  margin-top: 2.2rem;
-  margin-bottom: 0.8rem;
-  letter-spacing: -0.02em;
-}
-
-.md-typeset h3 {
-  color: var(--gh-heading);
-  font-weight: 650;
-  font-size: 1.05rem;
-  margin-top: 1.8rem;
-  margin-bottom: 0.5rem;
-}
-
-.md-typeset p,
-.md-typeset li {
-  color: var(--gh-text);
-}
-
-.md-typeset strong {
-  color: var(--gh-heading);
-}
-
-/* Sidebar */
-.md-nav__link {
-  border-radius: 8px;
-}
-
-.md-nav__link--active {
+.md-tabs__link {
   font-weight: 600;
 }
 
-.md-nav__link:hover {
-  background: rgba(37, 99, 235, 0.06);
+/* Breadcrumb strip */
+.gh-breadcrumb-bar {
+  background: #dce8f1;
+  border-bottom: 1px solid #c9d7e2;
+  color: #2d4b63;
+  font-size: 0.75rem;
 }
 
-/* Zoekbalk */
-.md-search__form {
-  border-radius: 12px;
+.gh-breadcrumb-inner {
+  padding: 0.75rem 0;
+}
+
+.gh-breadcrumb-inner a {
+  color: var(--gh-link);
+  text-decoration: none;
+}
+
+[data-md-color-scheme="slate"] .gh-breadcrumb-bar {
+  background: #1b2630;
+  border-bottom: 1px solid var(--gh-border);
+  color: var(--gh-muted);
+}
+
+/* Layout */
+.md-grid {
+  max-width: 1280px;
+}
+
+.md-sidebar--primary {
+  width: 20rem;
+}
+
+.md-sidebar--secondary {
+  display: none;
+}
+
+/* Linker sidebar als paneel */
+.md-sidebar__scrollwrap {
+  border: 1px solid var(--gh-border);
+  background: var(--gh-surface);
+}
+
+.md-sidebar__inner {
+  padding: 0;
+}
+
+.md-nav--primary .md-nav__title {
+  background: transparent;
+  color: var(--gh-heading);
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 1rem 1rem 0.75rem;
+}
+
+.md-nav--primary .md-nav__list {
+  padding: 0.5rem 0.75rem 1rem;
+}
+
+.md-nav__item {
+  margin: 0.1rem 0;
+}
+
+.md-nav__link {
+  border-radius: 0;
+  padding: 0.3rem 0.5rem;
+}
+
+.md-nav__link:hover,
+.md-nav__link--active {
+  color: var(--gh-link);
+  background: rgba(1, 104, 155, 0.06);
+}
+
+/* Contentvlak */
+.md-content__inner {
+  background: var(--gh-surface);
+  padding: 0;
+  box-shadow: none;
+}
+
+.md-content__inner::before {
+  display: none;
+}
+
+.md-content article {
+  padding: 0;
+}
+
+/* Titelgebied */
+.md-typeset h1 {
+  color: var(--gh-heading);
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: 0 0 1.25rem;
+}
+
+.md-typeset {
+  color: var(--gh-text);
+  font-size: 0.81rem;
+  line-height: 1.7;
+}
+
+/* Intro-info box */
+.gh-law-meta {
+  background: #e8f1f7;
+  border: 1px solid #d3e0ea;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+}
+
+[data-md-color-scheme="slate"] .gh-law-meta {
+  background: #1d2730;
+  border-color: var(--gh-border);
+}
+
+/* Sectieblokken zoals in screenshot */
+.md-typeset h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  padding: 0.75rem 1rem;
+  background: #efefef;
+  color: #222;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-top: 1px solid var(--gh-border);
+  border-bottom: 1px solid var(--gh-border);
+}
+
+.md-typeset h3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+  padding: 0.7rem 1rem;
+  background: #f5f5f5;
+  color: #222;
+  font-size: 0.98rem;
+  font-weight: 700;
+  border-top: 1px solid var(--gh-border);
+  border-bottom: 1px solid var(--gh-border);
+}
+
+.md-typeset h4 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  padding: 0.65rem 1rem;
+  background: #f2f2f2;
+  color: #222;
+  font-size: 0.92rem;
+  font-weight: 700;
+  border: 1px solid var(--gh-border);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4 {
+  background: #202830;
+  color: var(--gh-text);
+}
+
+/* Lopende tekst */
+.md-typeset p,
+.md-typeset ol,
+.md-typeset ul,
+.md-typeset table:not([class]) {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 /* Tabellen */
 .md-typeset table:not([class]) {
-  width: 100%;
+  width: calc(100% - 2rem);
+  margin: 1rem;
   border: 1px solid var(--gh-border);
-  border-radius: 14px;
-  overflow: hidden;
-  box-shadow: none;
-  font-size: 0.75rem;
+  border-collapse: collapse;
+  font-size: 0.76rem;
   background: var(--gh-surface);
 }
 
 .md-typeset table:not([class]) th {
-  background: var(--gh-surface-secondary);
-  color: var(--gh-heading);
+  background: #f3f3f3;
+  color: #222;
   font-weight: 700;
-  border-bottom: 1px solid var(--gh-border);
+  border: 1px solid var(--gh-border);
 }
 
 .md-typeset table:not([class]) td {
-  border-top: 1px solid var(--gh-border);
-}
-
-.md-typeset table:not([class]) tr:nth-child(even) {
-  background: rgba(127, 127, 127, 0.03);
-}
-
-[data-md-color-scheme="slate"] .md-typeset table:not([class]) tr:nth-child(even) {
-  background: rgba(255, 255, 255, 0.02);
-}
-
-/* Codeblokken */
-.highlight pre {
-  border-radius: 12px;
-}
-
-/* Admonitions en details */
-.md-typeset .admonition,
-.md-typeset details {
-  border-radius: 12px;
   border: 1px solid var(--gh-border);
-  box-shadow: none;
 }
 
-/* Blockquotes */
-.md-typeset blockquote {
-  border-left: 3px solid var(--md-accent-fg-color);
-  background: rgba(37, 99, 235, 0.05);
-  padding: 0.9rem 1rem;
-  border-radius: 0 10px 10px 0;
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background: #202830;
+  color: var(--gh-text);
 }
 
-/* Horizontale lijn */
+/* Hr en details rustiger */
 .md-typeset hr {
   border-bottom: 1px solid var(--gh-border);
+  margin: 1rem 0;
 }
 
-/* Home hero: heel minimal */
-.gh-hero {
-  margin-bottom: 2rem;
-  padding: 1.5rem 0 1rem 0;
+.md-typeset .admonition,
+.md-typeset details {
+  margin: 1rem;
+  border-radius: 0;
 }
 
-.gh-hero h1 {
-  margin-bottom: 0.5rem;
-}
+/* Mobiel */
+@media screen and (max-width: 1219px) {
+  .md-sidebar--primary {
+    width: auto;
+  }
 
-.gh-hero p {
-  max-width: 760px;
-  color: var(--gh-text-muted);
-  font-size: 0.86rem;
-}
-
-/* Info cards */
-.gh-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0 2rem;
-}
-
-.gh-card {
-  background: var(--gh-surface);
-  border: 1px solid var(--gh-border);
-  border-radius: 14px;
-  padding: 1rem 1rem;
-  box-shadow: none;
-}
-
-.gh-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.35rem;
-  font-size: 0.95rem;
-}
-
-.gh-card p {
-  margin: 0;
-  color: var(--gh-text-muted);
-  font-size: 0.75rem;
-}
-
-/* Metadata-blokken bovenaan wetten */
-.gh-meta {
-  margin: 1rem 0 2rem 0;
-}
-
-/* Betere mobiele spacing */
-@media screen and (max-width: 768px) {
   .md-content__inner {
-    padding: 1.2rem;
-    border-radius: 14px;
-  }
-
-  .md-typeset h1 {
-    font-size: 1.6rem;
-  }
-
-  .md-typeset h2 {
-    font-size: 1.2rem;
+    padding: 0 0 1rem;
   }
 }
