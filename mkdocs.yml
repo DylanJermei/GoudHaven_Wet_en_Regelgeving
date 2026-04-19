@@ -1,5 +1,5 @@
 site_name: GoudHaven Roleplay - Wetboek & Regelgeving
-site_url: https://wetboek.goud-haven.nl
+site_url: https://regelgeving.goud-haven.nl
 site_description: Officiële wet- en regelgeving van GoudHaven Roleplay
 site_author: GoudHaven Roleplay
 
@@ -7,22 +7,22 @@ theme:
   name: material
   language: nl
   font:
-    text: Merriweather
+    text: Inter
     code: JetBrains Mono
   icon:
     logo: material/scale-balance
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Donkere modus inschakelen
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: light blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Lichte modus inschakelen
@@ -35,33 +35,20 @@ theme:
     - search.suggest
     - toc.follow
     - content.code.copy
-    - content.tabs.link
-    - content.action.edit
 
 markdown_extensions:
   - tables
   - admonition
   - attr_list
   - md_in_html
-  - footnotes
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tabbed:
-      alternate_style: true
   - toc:
       permalink: false
       toc_depth: 2-3
 
 extra_css:
   - stylesheets/extra.css
-
-extra:
-  homepage: /
-  social:
-    - icon: fontawesome/solid/scale-balanced
-      link: "#"
 
 nav:
   - Home: index.md
