@@ -92,7 +92,7 @@
 
 #### Artikel 11
 
-1. Voorbereiding van een misdrijf waarop een gevangenisstraf van 20 maanden of meer is gesteld, is strafbaar indien de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het plegen van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
+1. Voorbereiding van een misdrijf waarop een gevangenisstraf van 10 maanden of meer is gesteld, is strafbaar indien de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het plegen van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
 2. Onder voorwerpen worden verstaan alle zaken en vermogensrechten.
 
 ---
@@ -126,6 +126,7 @@
      <li>Gevangenisstraf;</li>
      <li>Taakstraf;</li>
      <li>Geldboete;</li>
+     <li>Inbeslagname van goederen;</li>
      <li>Bijkomende straffen;</li>
    </ol>
 2. Straffen kunnen afzonderlijk of gecombineerd worden opgelegd.
@@ -137,12 +138,13 @@
 1. Indien een taakstraf niet naar behoren wordt uitgevoerd, kan vervangende hechtenis worden toegepast.
 2. De duur daarvan bedraagt minimaal één maand en maximaal tien maanden.
 3. Voor elke vijf uren taakstraf kan maximaal één maand hechtenis worden opgelegd.
+4. Taakstraffen kunnen niet worden omgevormd tot geldboetes.
 
 ---
 
 #### Artikel 16
 
-1. Een taakstraf wordt niet opgelegd bij misdrijven waarop een gevangenisstraf van 20 maanden of meer is gesteld, tenzij anders bepaald.
+1. Een taakstraf wordt niet opgelegd bij misdrijven waarop een gevangenisstraf van 20 maanden of meer is gesteld, tenzij anders bepaald door een hulp officier van justitie.
 
 ---
 
@@ -167,17 +169,17 @@
 
 #### Artikel 19
 
-1. De maximale gevangenisstraf bedraagt 300 maanden.
-2. Indien de totale strafbepaling boven de 300 maanden komt kan deze worden omgezet tot een bekeuring.
-3. Voor de omzetting kunnen elke 5 maanden worden omgezet in een bedrag van €1.000
+1. De maximale gevangenisstraf bedraagt 60 maanden.
+2. Indien de totale strafbepaling boven de 60 maanden komt kan deze worden omgezet tot een bekeuring.
+3. Voor de omzetting kunnen elke 5 maanden worden omgezet in een bedrag van €1.500
 
 ---
 
 #### Artikel 19a – Verplichte rechterlijke toetsing
 
-1. Indien de op te leggen straf een totale duur van meer dan 150 maanden gevangenisstraf bedraagt, kan deze niet direct door opsporingsambtenaren worden opgelegd.
+1. Indien de op te leggen straf een totale duur van meer dan 50 maanden gevangenisstraf bedraagt, kan deze niet direct door opsporingsambtenaren worden opgelegd.
 2. In dat geval dient de zaak te worden voorgelegd aan een bevoegde rechterlijke instantie.
-3. De verdachte wordt in afwachting van de behandeling door de rechter in voorlopige hechtenis geplaatst, overeenkomstig de bepalingen in dit wetboek.
+3. De verdachte wordt in afwachting van de behandeling door de rechter in voorlopige hechtenis geplaatst, overeenkomstig de bepalingen in dit wetboek. -- Enkelband?!?
 
 ---
 
@@ -194,11 +196,11 @@
 1. Strafbare feiten verjaren als volgt:
       <ol type="a">
      <li>Feiten zonder gevangenisstraf → 7 dagen;</li>
-     <li>1 t/m 150 maanden → 14 dagen;</li>
+     <li>1 t/m 35 maanden → 14 dagen;</li>
    </ol>
 2. Strafbare feiten die niet verjaren:
       <ol type="a">
-     <li>feiten vanaf 151 maanden;</li>
+     <li>feiten vanaf 50 maanden;</li>
    </ol>
 3. Rechtszaken kunnen verjaring verlengen tot 42 dagen.
 
@@ -208,10 +210,13 @@
 
 #### Artikel 22
 
-1. Indien een gevangenisstraf wordt opgelegd, krijgt de verdachte automatisch een strafblad
-2. Dit blijft één maand geregistreerd.
-3. Na verloop van één maand vindt automatisch eerherstel plaats.
-4. Het strafblad kan gevolgen hebben voor functies binnen de overheid.
+1. Indien een gevangenisstraf wordt opgelegd, krijgt de verdachte automatisch een strafblad als volgt:
+      <ol type="a">
+     <li>Bij lichte feiten wordt een strafblad van één maand opgelegd;</li>
+     <li>Bij zware feiten wordt een strafblad van twee maanden opgelegd;</li>
+   </ol>
+2. Na verloop van de vooraf bepaalde tijd vindt automatisch eerherstel plaats.
+3. Het strafblad kan gevolgen hebben voor functies binnen de overheid.
 
 ---
 
@@ -220,12 +225,14 @@
 #### Artikel 23
 
 1. Dit wetboek wordt toegepast met inachtneming van:
-   a. proportionaliteit
-   b. subsidiariteit
-   c. hoor en wederhoor
-   d. rechtszekerheid
-   e. onschuldpresumptie
-   f. ne bis in idem
+   <ol type="a">
+     <li>proportionaliteit;</li>
+     <li>subsidiariteit;</li>
+     <li>hoor en wederhoor;</li>
+     <li>rechtszekerheid;</li>
+     <li>onschuldpresumptie;</li>
+     <li>ne bis in idem;</li>
+   </ol>
 
 ---
 
@@ -247,7 +254,7 @@
 #### Artikel 26 – Rechtsbijstand
 
 1. De verdachte heeft recht op een advocaat.
-2. Deze wordt voorafgaand aan het eerste verhoor aangeboden.
+2. Dit wordt medegedeeld vóór het eerste verhoor.
 
 ---
 
@@ -272,7 +279,7 @@
 
 ### Titel IX – Vrijheidsbeneming en voorlopige hechtenis
 
-#### Artikel 30 – Ophouden voor onderzoek
+#### Artikel 30 – Ophouden voor onderzoek -- Keertje nakijken
 
 1. Een verdachte kan na aanhouding worden opgehouden voor onderzoek voor een maximale duur van 1 dag.
 2. Deze termijn wordt gebruikt voor identificatie, eerste verhoor en vaststelling van de feiten.
@@ -315,11 +322,6 @@ Dit wetboek wordt aangehaald als: Wetboek van Strafrecht GoudHaven (WSRGH).
 
 ---
 
-#### Artikel 34
-
-Dit wetboek treedt in werking op de bovenstaande vermelde datum.
-
----
 
 ## Tweede Boek – Misdrijven
 
@@ -328,20 +330,20 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel I – Misdrijven tegen de openbare orde
 
-### Artikel 35 - Opzettelijk nalaten misdrijf te melden
+### Artikel 34 - Opzettelijk nalaten misdrijf te melden
 1. Schuldig is een persoon die kennis draagt van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, het opzettelijk nalaat daarvan tijdig kennis tegeve aan de politie.
 
 
 
-|                             | Taakstraf | Celstraf   | Boete  |
-| --------------------------- | --------- | ---------- | ------ |
-| **Eerste veroordeling**     | -         | -          | €2.500 |
-| **Tweede veroordeling**     | 30 uur    | -          | €3.500 |
-| **Meerdere veroordelingen** | -         | 10 Maanden | €5.500 |
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | -          | €5.500  |
+| **Tweede veroordeling**     | 30 uur    | -          | €8.500  |
+| **Meerdere veroordelingen** | -         | 10 Maanden | €12.500 |
 
 ---
 
-### Artikel 36 - Huisvredebreuk
+### Artikel 35 - Huisvredebreuk
 1. Schuldig is een persoon die in een woning, besloten lokaal, of erf bij een ander ingebruik binnendringt, of zich niet verwijderd op uitdrukkelijke vraag van de eigenaar.
 2. Zij die zichzelf toegangverschaft door braak, inklimming, gebruik valse sleutels, gebruik vals uniform, of wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
@@ -350,13 +352,13 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 15 Maanden | €5.000  |
-| **Tweede veroordeling**     | -         | 25 Maanden | €8.500  |
-| **Meerdere veroordelingen** | -         | 40 Maanden | €10.000 |
+| **Eerste veroordeling**     | -         | 6 Maanden  | €7.500  |
+| **Tweede veroordeling**     | -         | 15 Maanden | €9.500  |
+| **Meerdere veroordelingen** | -         | 20 Maanden | €10.500 |
 
 ---
 
-### Artikel 36a - Kraken van panden
+### Artikel 35a - Kraken van panden
 1. Schuldig is een persoon die in een woning of gebouw, waarvan geen gebruik wordt gemaakt, binnendringt of zich daar bevind.
 2. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
 
@@ -364,13 +366,13 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €1.500  |
-| **Tweede veroordeling**     | 20 uur    | -          | €2.000  |
-| **Meerdere veroordelingen** | 35 uur    | -          | €3.000  |
+| **Eerste veroordeling**     | 30 uur    | -          | €4.500  |
+| **Tweede veroordeling**     | 35 uur    | -          | €8.000  |
+| **Meerdere veroordelingen** | -         | 5 Maanden  | €10.500  |
 
 ---
 
-### Artikel 36aa - Betreden van afgesloten transportzones
+### Artikel 35b - Betreden van afgesloten transportzones
 1. Schuldig is een persoon die zonder voorafgaand schriftelijke toestemming verblijft in een haven, luchthaven, of spoorweg gelegen besloten plaats voor distributie, opslag of overslag van goederen.
 2. De schuldige die zich toegang verschaft tot de in het eerslte lid vernoemde plaats door middel van een valse of niet aan betrokkene toebehorende toegangspas, een valse hoedanigheid of misleiding van een persoon, belast met bewaking van die plaats kan een strafverhoging krijgen van 10%.
 
@@ -378,13 +380,13 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €5.000   |
-| **Tweede veroordeling**     | 30 uur    | -          | €8.000   |
-| **Meerdere veroordelingen** | 50 uur    | -          | €15.000  |
+| **Eerste veroordeling**     | 35 uur    | -          | €6.500   |
+| **Tweede veroordeling**     | 45 uur    | -          | €10.000   |
+| **Meerdere veroordelingen** | -         | 8 Maanden  | €15.000  |
 
 ---
 
-### Artikel 37 - Lidmaatschap van criminele organisatie
+### Artikel 36 - Lidmaatschap van criminele organisatie
 1. Schuldig is een persoon die deelneemt aan een organisatie die tot oogmerk heeft het plegen van misdrijven.
 2. Schuldig is een persoon die zijn werkzaamheid binnen een organisatie die bij onheroepelijke gerechterlijke beslissing verboden is verklaard voortzet.
 3. Ten aanzien van de oprichters, leiders, of bestuurders van organisaties zoals vermeld in lid 1, kunnen de straffen met 33% worden verhoogt.
@@ -393,13 +395,13 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | -         | 25 Maanden | €5.000   |
-| **Tweede veroordeling**     | -         | 45 Maanden | €10.000  |
-| **Meerdere veroordelingen** | -         | 50 Maanden | €15.000  |
+| **Eerste veroordeling**     | 40 Uur    | -          | €6.000  |
+| **Tweede veroordeling**     | -         | 25 Maanden | €10.000  |
+| **Meerdere veroordelingen** | -         | 35 Maanden | €15.500  |
 
 ---
 
-### Artikel 38 - Openlijke geweldpleging
+### Artikel 37 - Openlijke geweldpleging
 1. Schuldig zijn personen die in vereniging openlijk geweld plegen tegen personen of goederen.
 2. Onder openlijk geweld wordt verstaan het in het openbaar en in groepsverband gebruiken van geweld.
 
@@ -407,27 +409,27 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
-| **Tweede veroordeling**     | 30 uur    | -          | €4.000  |
-| **Meerdere veroordelingen** | 50 uur    | -          | €6.500  |
+| **Eerste veroordeling**     | 25 uur    | -          | €6.000   |
+| **Tweede veroordeling**     | 40 uur    | -          | €8.000   |
+| **Meerdere veroordelingen** | -         | 5 Maanden  | €12.500  |
 
 ---
 
 ## Titel II – Misdrijven tegen het openbaar gezag
 
-### Artikel 39 - Omkoping van ambtenaar
+### Artikel 38 - Omkoping van ambtenaar
 1. Schuldig is een persoon die een ambtenaar een gift, belofte of dienst aanbiedt met het oogmerk om hem te bewegen in zijn functie iets te doen of na te laten.
 2. Schuldig is een persoon die een feit zoals bedoeld in lid 1 pleegt jegens een persoon in het vooruitzicht van een dienstbetrekking binnen de overheid.
 
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | -         | 20 Maanden | €7.500   |
-| **Tweede veroordeling**     | -         | 35 Maanden | €12.500  |
-| **Meerdere veroordelingen** | -         | 50 Maanden | €20.000  |
+| **Eerste veroordeling**     | 40 uur    | -          | €8.000   |
+| **Tweede veroordeling**     | -         | 18 Maanden | €12.500  |
+| **Meerdere veroordelingen** | -         | 30 Maanden | €18.000  |
 
 ---
-### Artikel 40 - Wederspannigheid
+### Artikel 39 - Wederspannigheid
 1. Schuldig is een persoon die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar in de rechtmatige uitoefening van zijn functie.
 2. Onder wederspannigheid wordt mede verstaan het verzetten tegen personen die de ambtenaar ondersteunen.
 
@@ -435,13 +437,13 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €2.500   |
-| **Tweede veroordeling**     | -         | 10 Maanden | €5.000   |
-| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000   |
+| **Eerste veroordeling**     | 25 uur    | -          | €6.000   |
+| **Tweede veroordeling**     | -         | 18 Maanden | €8.500   |
+| **Meerdere veroordelingen** | -         | 30 Maanden | €10.000  |
 
 ---
 
-### Artikel 41 - Niet voldoen aan ambtelijk bevel
+### Artikel 40 - Niet voldoen aan ambtelijk bevel
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering, gedaan door een bevoegde ambtenaar.
 2. Schuldig is een persoon die een handeling van een ambtenaar, uitgevoerd in het kader van zijn functie, belemmert, verhindert of verijdelt.
 3. Onder ambtenaar wordt mede verstaan een persoon belast met een openbare dienst.
@@ -450,26 +452,26 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000   |
-| **Tweede veroordeling**     | 25 uur    | -          | €4.000   |
-| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500   |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500   |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000   |
+| **Meerdere veroordelingen** | -         | 10 Maanden | €8.500   |
 
 ---
 
-### Artikel 42 - Valse aangifte
+### Artikel 41 - Valse aangifte
 1. Schuldig is een persoon die aangifte of klacht doet van een strafbaar feit, terwijl hij weet dat dit feit niet gepleegd is.
 
 
 
 |                             | Taakstraf | Celstraf   | Boete    |
 | --------------------------- | --------- | ---------- | -------- |
-| **Eerste veroordeling**     | -         | -          | €3.000   |
-| **Tweede veroordeling**     | -         | -          | €5.000   |
-| **Meerdere veroordelingen** | 20 uur    | -          | €8.500   |
+| **Eerste veroordeling**     | -         | -          | €4.500   |
+| **Tweede veroordeling**     | -         | -          | €7.500   |
+| **Meerdere veroordelingen** | 40 uur    | -          | €9.500   |
 
 ---
 
-### Artikel 43 - Belemmering van justitie
+### Artikel 42 - Belemmering van justitie
 1. Schuldig is een persoon die opzettelijk een verdachte of schuldige van een misdrijf helpt bij het ontkomen aan opsporing of aanhouding.
 2. Schuldig is een persoon die opzettelijk informatie verstrekt of handelingen verricht om inbeslagname van bewijsmateriaal te voorkomen of te belemmeren.
 
@@ -477,76 +479,76 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
-| **Tweede veroordeling**     | 30 uur    | -          | €6.000    |
-| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000   |
+| **Eerste veroordeling**     | 25 uur    | -          | €5.500    |
+| **Tweede veroordeling**     | 40 uur    | -          | €7.500    |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €9.000   |
 
 ---
 
 ## Titel III – Misdrijven tegen de persoonlijke vrijheid
 
-### Artikel 44 - Gijzeling
+### Artikel 43 - Gijzeling
 1. Schuldig is een persoon die een ander wederrechtelijk van de vrijheid berooft met het doel een ander te dwingen iets te doen of na te laten.
 
 
 
 |                             | Taakstraf | Celstraf    | Boete     |
 | --------------------------- | --------- | ----------- | --------- |
-| **Eerste veroordeling**     | -         | 45 Maanden  | €15.000   |
-| **Tweede veroordeling**     | -         | 75 Maanden  | €25.000   |
-| **Meerdere veroordelingen** | -         | 100 Maanden | €40.000   |
+| **Eerste veroordeling**     | -         | 20 Maanden  | €10.000   |
+| **Tweede veroordeling**     | -         | 30 Maanden  | €13.500   |
+| **Meerdere veroordelingen** | -         | 45 Maanden  | €15.000   |
 
 ---
 
-### Artikel 45 - Dwang
+### Artikel 44 - Dwang
 1. Schuldig is een persoon die een ander door geweld, bedreiging of andere feitelijkheden dwingt iets te doen, niet te doen of te dulden
 
 
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
-| **Tweede veroordeling**     | 30 uur    | -          | €6.000    |
-| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000   |
+| **Eerste veroordeling**     | 25 uur    | -          | €4.500    |
+| **Tweede veroordeling**     | 40 uur    | -          | €7.000    |
+| **Meerdere veroordelingen** | -         | 12 Maanden | €8.500   |
 
 ---
 
 ## Titel IV – Misdrijven tegen het leven en de lichamelijke integriteit
 
-### Artikel 46 - Bedreiging
+### Artikel 45 - Bedreiging
 1. Schuldig is een persoon die een ander mondeling, schriftelijk of door feitelijkheden bedreigt met enig misdrijf tegen het leven of met zware mishandeling.
 2. Onder bedreiging wordt mede verstaan het tonen van een wapen of voorwerp met het kennelijke doel vrees aan te jagen.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
-| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
-| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
+| **Eerste veroordeling**     | 15 uur    | -          | €4.500  |
+| **Tweede veroordeling**     | 30 uur    | -          | €7.000  |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €8.500  |
 
 ---
 
-### Artikel 47 - Mishandeling
+### Artikel 46 - Mishandeling
 1. Schuldig is een persoon die opzettelijk een ander pijn of letsel toebrengt.
 2. Onder mishandeling wordt mede verstaan het herhaaldelijk of langdurig fysiek geweld gebruiken zonder zwaar letsel te veroorzaken.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €2.500  |
-| **Tweede veroordeling**     | -         | 10 Maanden | €5.000  |
-| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000  |
+| **Eerste veroordeling**     | 25 uur    | -          | €5.000  |
+| **Tweede veroordeling**     | -         | 8 Maanden  | €8.500  |
+| **Meerdere veroordelingen** | -         | 16 Maanden | €12.500 |
 
 ---
 
-### Artikel 48 - Zware mishandeling
+### Artikel 47 - Zware mishandeling
 1. Schuldig is een persoon die opzettelijk een ander zwaar lichamelijk letsel toebrengt.
 2. Onder zwaar lichamelijk letsel wordt verstaan letsel dat van blijvende aard is of dat ernstig medisch ingrijpen vereist.
 
 
 |                             | Taakstraf | Celstraf    | Boete     |
 | --------------------------- | --------- | ----------- | --------- |
-| **Eerste veroordeling**     | -         | 25 Maanden  | €10.000   |
-| **Tweede veroordeling**     | -         | 45 Maanden  | €20.000   |
-| **Meerdere veroordelingen** | -         | 60 Maanden  | €30.000   |
+| **Eerste veroordeling**     | -         | 12 Maanden  | €9.500   |
+| **Tweede veroordeling**     | -         | 25 Maanden  | €13.500   |
+| **Meerdere veroordelingen** | -         | 40 Maanden  | €16.000   |
 
 ---
 
@@ -555,9 +557,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf     | Boete     |
 | --------------------------- | --------- | ------------ | --------- |
-| **Eerste veroordeling**     | -         | 120 Maanden  | €50.000   |
-| **Tweede veroordeling**     | -         | 180 Maanden  | €75.000   |
-| **Meerdere veroordelingen** | -         | 240 Maanden  | €100.000  |
+| **Eerste veroordeling**     | -         | 25 Maanden   | €15.000   |
+| **Tweede veroordeling**     | -         | 40 Maanden   | €20.000   |
+| **Meerdere veroordelingen** | -         | 60 Maanden   | €35.000   |
 
 ---
 
@@ -567,9 +569,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf     | Boete      |
 | --------------------------- | --------- | ------------ | ---------- |
-| **Eerste veroordeling**     | -         | 180 Maanden  | €75.000    |
-| **Tweede veroordeling**     | -         | 240 Maanden  | €100.000   |
-| **Meerdere veroordelingen** | -         | 300 Maanden  | €150.000   |
+| **Eerste veroordeling**     | -         | 35 Maanden   | €20.000    |
+| **Tweede veroordeling**     | -         | 50 Maanden   | €35.000    |
+| **Meerdere veroordelingen** | -         | 60 Maanden   | €50.000    |
 
 ---
 
@@ -578,9 +580,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | -         | 30 Maanden | €10.000   |
-| **Tweede veroordeling**     | -         | 50 Maanden | €20.000   |
-| **Meerdere veroordelingen** | -         | 75 Maanden | €35.000   |
+| **Eerste veroordeling**     | -         | 15 Maanden | €10.000   |
+| **Tweede veroordeling**     | -         | 25 Maanden | €12.500   |
+| **Meerdere veroordelingen** | -         | 40 Maanden | €35.000   |
 
 ---
 
@@ -591,9 +593,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
-| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
-| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500  |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000  |
+| **Meerdere veroordelingen** | -         | 8 Maanden  | €9.500  |
 
 ---
 
@@ -602,9 +604,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 20 Maanden | €5.000  |
-| **Tweede veroordeling**     | -         | 35 Maanden | €10.000 |
-| **Meerdere veroordelingen** | -         | 50 Maanden | €15.000 |
+| **Eerste veroordeling**     | -         | 10 Maanden | €4.500  |
+| **Tweede veroordeling**     | -         | 20 Maanden | €7.000  |
+| **Meerdere veroordelingen** | -         | 35 Maanden | €9.500  |
 
 ---
 
@@ -613,9 +615,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | -         | 25 Maanden | €7.500    |
-| **Tweede veroordeling**     | -         | 45 Maanden | €15.000   |
-| **Meerdere veroordelingen** | -         | 60 Maanden | €25.000   |
+| **Eerste veroordeling**     | -         | 18 Maanden | €7.500    |
+| **Tweede veroordeling**     | -         | 30 Maanden | €9.500    |
+| **Meerdere veroordelingen** | -         | 45 Maanden | €12.500   |
 
 ---
 
@@ -624,9 +626,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | -         | 25 Maanden | €10.000   |
-| **Tweede veroordeling**     | -         | 45 Maanden | €20.000   |
-| **Meerdere veroordelingen** | -         | 60 Maanden | €30.000   |
+| **Eerste veroordeling**     | -         | 18 Maanden | €7.500    |
+| **Tweede veroordeling**     | -         | 30 Maanden | €9.500    |
+| **Meerdere veroordelingen** | -         | 45 Maanden | €12.500   |
 
 ---
 
@@ -635,9 +637,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €3.000  |
-| **Tweede veroordeling**     | -         | 15 Maanden | €6.000  |
-| **Meerdere veroordelingen** | -         | 25 Maanden | €10.000 |
+| **Eerste veroordeling**     | 25 uur    | -          | €5.000  |
+| **Tweede veroordeling**     | -         | 10 Maanden | €8.000  |
+| **Meerdere veroordelingen** | -         | 18 Maanden | €10.000 |
 
 ---
 
@@ -646,9 +648,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €3.500    |
-| **Tweede veroordeling**     | -         | 15 Maanden | €7.500    |
-| **Meerdere veroordelingen** | -         | 30 Maanden | €12.500   |
+| **Eerste veroordeling**     | 30 uur    | -          | €4.500    |
+| **Tweede veroordeling**     | -         | 12 Maanden | €6.000    |
+| **Meerdere veroordelingen** | -         | 25 Maanden | €9.500   |
 
 ---
 
@@ -657,9 +659,9 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.500    |
-| **Tweede veroordeling**     | 25 uur    | -          | €5.000    |
-| **Meerdere veroordelingen** | -         | 20 Maanden | €8.000    |
+| **Eerste veroordeling**     | 25 uur    | -          | €4.500    |
+| **Tweede veroordeling**     | 35 uur    | -          | €6.000    |
+| **Meerdere veroordelingen** | -         | 12 Maanden | €9.500    |
 
 ---
 
@@ -668,6 +670,6 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | 15 uur    | -          | €2.000  |
-| **Tweede veroordeling**     | 25 uur    | -          | €4.000  |
-| **Meerdere veroordelingen** | -         | 15 Maanden | €7.500  |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.500  |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000  |
+| **Meerdere veroordelingen** | -         | 8 Maanden  | €9.500  |

@@ -1,240 +1,137 @@
 :root {
-  --md-primary-fg-color: #111827;
-  --md-primary-fg-color--light: #1f2937;
-  --md-primary-fg-color--dark: #0b1220;
-  --md-accent-fg-color: #2563eb;
-
-  --gh-bg: #f5f7fb;
-  --gh-surface: #ffffff;
-  --gh-surface-secondary: #f8fafc;
-  --gh-border: #e5e7eb;
-  --gh-text: #111827;
-  --gh-text-muted: #6b7280;
-  --gh-heading: #0f172a;
-  --gh-radius: 14px;
-  --gh-shadow: 0 6px 20px rgba(15, 23, 42, 0.06);
-}
-
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #0f172a;
-  --md-primary-fg-color--light: #1e293b;
-  --md-primary-fg-color--dark: #020617;
-  --md-accent-fg-color: #60a5fa;
-
-  --gh-bg: #0b1120;
-  --gh-surface: #111827;
-  --gh-surface-secondary: #172033;
-  --gh-border: rgba(255, 255, 255, 0.08);
-  --gh-text: #e5e7eb;
-  --gh-text-muted: #94a3b8;
-  --gh-heading: #f8fafc;
-  --gh-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
-}
-
-/* Pagina-achtergrond */
-body {
-  background: var(--gh-bg);
-}
-
-/* Header strak en neutraal */
-.md-header {
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
-}
-
-.md-tabs {
-  box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.04);
-}
-
-/* Content container */
-.md-main__inner {
-  margin-top: 1rem;
-}
-
-.md-content__inner {
-  background: var(--gh-surface);
-  border: 1px solid var(--gh-border);
-  border-radius: 18px;
-  padding: 2rem;
-  box-shadow: var(--gh-shadow);
+  --md-default-bg-color: #10141c;
+  --md-default-fg-color: #e6eaf0;
+  --md-default-fg-color--light: #b8c0cc;
+  --md-default-fg-color--lighter: #8b96a5;
+  --md-accent-fg-color: #8ab4f8;
+  --md-primary-fg-color: #2b86d1;
+  --md-primary-fg-color--dark: #236ea9;
+  --md-typeset-a-color: #8ab4f8;
 }
 
 /* Typografie */
 .md-typeset {
-  color: var(--gh-text);
-  font-size: 0.79rem;
+  font-size: 0.8rem;
   line-height: 1.75;
 }
 
 .md-typeset h1 {
-  color: var(--gh-heading);
-  font-weight: 750;
-  font-size: 2rem;
-  line-height: 1.2;
-  margin-bottom: 1rem;
-  letter-spacing: -0.03em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: #f3f6fb;
 }
 
 .md-typeset h2 {
-  color: var(--gh-heading);
   font-weight: 700;
-  font-size: 1.35rem;
-  margin-top: 2.2rem;
-  margin-bottom: 0.8rem;
-  letter-spacing: -0.02em;
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  color: #eef2f8;
 }
 
 .md-typeset h3 {
-  color: var(--gh-heading);
-  font-weight: 650;
-  font-size: 1.05rem;
-  margin-top: 1.8rem;
-  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #e4e9f2;
 }
 
 .md-typeset p,
 .md-typeset li {
-  color: var(--gh-text);
+  color: #d4dbe5;
 }
 
 .md-typeset strong {
-  color: var(--gh-heading);
+  color: #ffffff;
 }
 
-/* Sidebar */
+/* Links */
+.md-typeset a {
+  text-decoration: none;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Navigatie */
 .md-nav__link {
-  border-radius: 8px;
-}
-
-.md-nav__link--active {
-  font-weight: 600;
+  border-radius: 4px;
 }
 
 .md-nav__link:hover {
-  background: rgba(37, 99, 235, 0.06);
+  background: rgba(255, 255, 255, 0.04);
 }
 
-/* Zoekbalk */
-.md-search__form {
-  border-radius: 12px;
+.md-nav__link--active {
+  font-weight: 700;
+  color: #9fc3ff !important;
+  background: rgba(138, 180, 248, 0.08);
+}
+
+/* Content */
+.md-content__inner {
+  padding-top: 1.2rem;
 }
 
 /* Tabellen */
 .md-typeset table:not([class]) {
   width: 100%;
-  border: 1px solid var(--gh-border);
-  border-radius: 14px;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.2em 0;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: none;
+  background: rgba(255, 255, 255, 0.015);
   font-size: 0.75rem;
-  background: var(--gh-surface);
 }
 
 .md-typeset table:not([class]) th {
-  background: var(--gh-surface-secondary);
-  color: var(--gh-heading);
+  background: rgba(138, 180, 248, 0.08);
+  color: #f5f8fc;
   font-weight: 700;
-  border-bottom: 1px solid var(--gh-border);
+  text-align: left;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .md-typeset table:not([class]) td {
-  border-top: 1px solid var(--gh-border);
+  padding: 0.8rem 1rem;
+  color: #d7deea;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 
-.md-typeset table:not([class]) tr:nth-child(even) {
-  background: rgba(127, 127, 127, 0.03);
+.md-typeset table:not([class]) tr:last-child td {
+  border-bottom: none;
 }
 
-[data-md-color-scheme="slate"] .md-typeset table:not([class]) tr:nth-child(even) {
+.md-typeset table:not([class]) tr:nth-child(even) td {
   background: rgba(255, 255, 255, 0.02);
 }
 
-/* Codeblokken */
-.highlight pre {
-  border-radius: 12px;
+.md-typeset table:not([class]) tr:hover td {
+  background: rgba(138, 180, 248, 0.045);
 }
 
-/* Admonitions en details */
+/* Admonitions iets netter */
 .md-typeset .admonition,
 .md-typeset details {
-  border-radius: 12px;
-  border: 1px solid var(--gh-border);
-  box-shadow: none;
+  border-radius: 8px;
 }
 
-/* Blockquotes */
-.md-typeset blockquote {
-  border-left: 3px solid var(--md-accent-fg-color);
-  background: rgba(37, 99, 235, 0.05);
-  padding: 0.9rem 1rem;
-  border-radius: 0 10px 10px 0;
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
 }
 
-/* Horizontale lijn */
-.md-typeset hr {
-  border-bottom: 1px solid var(--gh-border);
+::-webkit-scrollbar-track {
+  background: transparent;
 }
 
-/* Home hero: heel minimal */
-.gh-hero {
-  margin-bottom: 2rem;
-  padding: 1.5rem 0 1rem 0;
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
 }
 
-.gh-hero h1 {
-  margin-bottom: 0.5rem;
-}
-
-.gh-hero p {
-  max-width: 760px;
-  color: var(--gh-text-muted);
-  font-size: 0.86rem;
-}
-
-/* Info cards */
-.gh-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0 2rem;
-}
-
-.gh-card {
-  background: var(--gh-surface);
-  border: 1px solid var(--gh-border);
-  border-radius: 14px;
-  padding: 1rem 1rem;
-  box-shadow: none;
-}
-
-.gh-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.35rem;
-  font-size: 0.95rem;
-}
-
-.gh-card p {
-  margin: 0;
-  color: var(--gh-text-muted);
-  font-size: 0.75rem;
-}
-
-/* Metadata-blokken bovenaan wetten */
-.gh-meta {
-  margin: 1rem 0 2rem 0;
-}
-
-/* Betere mobiele spacing */
-@media screen and (max-width: 768px) {
-  .md-content__inner {
-    padding: 1.2rem;
-    border-radius: 14px;
-  }
-
-  .md-typeset h1 {
-    font-size: 1.6rem;
-  }
-
-  .md-typeset h2 {
-    font-size: 1.2rem;
-  }
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
 }

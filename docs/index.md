@@ -3,7 +3,7 @@
   <h1>Wetboek GoudHaven</h1>
   <p>
     Het officiële wetboek en de geldende regelgeving van GoudHaven Roleplay.
-    Dit platform vormt de juridische basis voor handhaving, berechting en naleving binnen de stad.
+    Dit platform vormt de juridische basis voor handhaving, berechting en naleving binnen de stad en haar rechtsgebied.
   </p>
 
   <div class="gh-badges">
@@ -16,7 +16,7 @@
 ## Welkom
 
 Welkom bij het officiële **Wetboek GoudHaven**.  
-Dit wetboek vormt de juridische basis voor alle handelingen binnen de stad en haar rechtsgebied.
+Dit wetboek vormt de juridische basis voor alle handelingen binnen de stad en haar rechtsgebied en geldt als leidend kader voor handhaving, berechting en bestuurlijke toepassing binnen GoudHaven Roleplay.
 
 <div class="gh-grid">
   <div class="gh-card">
@@ -41,14 +41,15 @@ Dit wetboek vormt de juridische basis voor alle handelingen binnen de stad en ha
 
 ## Over dit wetboek
 
-Het Wetboek GoudHaven bevat alle geldende wet- en regelgeving met betrekking tot:
+Het **Wetboek GoudHaven** bevat alle geldende wet- en regelgeving met betrekking tot:
 
 - openbare orde en veiligheid;
 - strafrechtelijke bepalingen;
 - verkeerswetgeving;
-- economische en overige delicten.
+- economische en overige delicten;
+- lokale regelgeving en bestuurlijke handhaving.
 
-De wetgeving is gebaseerd op realistische juridische kaders, geïnspireerd op bestaande juridische systemen, maar toegespitst op de context van GoudHaven Roleplay.
+De wetgeving is gebaseerd op realistische juridische kaders, geïnspireerd op bestaande juridische systemen, maar toegespitst op de context van **GoudHaven Roleplay**.
 
 ---
 
@@ -58,7 +59,10 @@ Dit wetboek dient als leidraad voor:
 
 - politie en handhavingsdiensten;
 - justitie en rechtbank;
-- burgers en bedrijven.
+- burgers en bedrijven;
+- bestuur en toezichthoudende instanties.
+
+Bij de interpretatie van artikelen geldt de letterlijke tekst als uitgangspunt. Waar meerdere bepalingen gelijktijdig van toepassing zijn, wordt gehandeld naar redelijkheid, proportionaliteit en samenhang.
 
 ---
 
@@ -68,6 +72,8 @@ Dit wetboek dient als leidraad voor:
 - Onschuld geldt totdat het tegendeel is bewezen.
 - Straffen moeten proportioneel zijn aan het delict.
 - Misbruik van bevoegdheden is niet toegestaan.
+- Gelijke gevallen worden gelijk behandeld.
+- Handhaving vindt uitsluitend plaats op basis van geldende regelgeving.
 
 ---
 
@@ -78,7 +84,8 @@ Gebruik de zoekfunctie rechtsboven om direct te zoeken op:
 - artikelnummer;
 - delict;
 - wetnaam;
-- strafsoort.
+- strafsoort;
+- onderwerp of kernbegrip.
 
 ---
 
@@ -88,7 +95,9 @@ Gebruik de zoekfunctie rechtsboven om direct te zoeken op:
 | -------------- | ---------- |
 | Huidige versie | 1.0        |
 | Laatste update | 15-04-2026 |
-| Status         | Actief     |
+| Status         | Geldend    |
+
+Wijzigingen aan het wetboek worden gepubliceerd via officiële updates. Raadpleeg bij twijfel altijd de meest recente versie van het betreffende document.
 
 ---
 
@@ -96,4 +105,4 @@ Gebruik de zoekfunctie rechtsboven om direct te zoeken op:
 
 Dit wetboek is uitsluitend van toepassing binnen de context van **GoudHaven Roleplay** en kan afwijken van werkelijke wetgeving.  
 Bij interpretatiegeschillen ligt de eindbeslissing bij de bevoegde autoriteiten binnen de server.  
-Alle artikelen binnen dit wetboek kunnen te allen tijde worden gewijzigd.
+Alle artikelen binnen dit wetboek kunnen te allen tijde worden gewijzigd of aangevuld.

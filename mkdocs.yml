@@ -6,33 +6,21 @@ site_author: GoudHaven Roleplay
 theme:
   name: material
   language: nl
-  custom_dir: overrides
   font:
-    text: Source Sans 3
+    text: Inter
     code: JetBrains Mono
   icon:
     logo: material/scale-balance
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Donkere modus inschakelen
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Lichte modus inschakelen
+    - scheme: slate
+      primary: blue
+      accent: light blue
   features:
-    - navigation.tabs
     - navigation.sections
-    - navigation.expand
+    - navigation.sections
     - navigation.top
     - navigation.instant
+    - navigation.tracking
     - search.highlight
     - search.suggest
     - toc.follow
