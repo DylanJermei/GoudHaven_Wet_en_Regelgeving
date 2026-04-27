@@ -142,9 +142,12 @@ In deze wet wordt verstaan onder:
 1. Schuldig is een persoon die de krachtens deze wet vastgestelde maximumsnelheid overschrijdt.
 
 2. Maximumsnelheden:
-   * autosnelwegen: 130 km/h;
-   * binnen bebouwdekom: 50 km/h;
-   * overige wegen: 80 km/h;
+<ol type="a">
+   <li>Snelweg binnen bebouwde kom 100 km/h;</li>
+   <li>Wegen binnen bebouwde kom: 50 km/h;</li>
+   <li>Snelweg buiten bebouwde kom 130 km/h;</li>
+   <li>Wegen buiten bebouwde kom: 80 km/h;</li>
+</ol>
 
 
 ---
