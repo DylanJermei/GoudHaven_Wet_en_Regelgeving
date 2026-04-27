@@ -90,9 +90,9 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 20 Maanden | €10.000 |
-| **Tweede veroordeling**     | -         | 35 Maanden | €20.000 |
-| **Meerdere veroordelingen** | -         | 50 Maanden | €30.000 |
+| **Eerste veroordeling**     | -         | 15 Maanden | €7.500  |
+| **Tweede veroordeling**     | -         | 25 Maanden | €15.000 |
+| **Meerdere veroordelingen** | -         | 40 Maanden | €20.000 |
 
 2. Schuldig is een persoon die middelen van lijst II aanwezig heeft.
 
@@ -100,7 +100,7 @@ In deze wet wordt verstaan onder:
 | --------------------------- | --------- | ---------- | ------- |
 | **Eerste veroordeling**     | 20 uur    | -          | €3.000  |
 | **Tweede veroordeling**     | 30 uur    | -          | €6.000  |
-| **Meerdere veroordelingen** | -         | 15 Maanden | €10.000 |
+| **Meerdere veroordelingen** | -         | 10 Maanden | €10.000 |
 
 ---
 
@@ -110,17 +110,17 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 40 Maanden | €20.000 |
-| **Tweede veroordeling**     | -         | 60 Maanden | €30.000 |
-| **Meerdere veroordelingen** | -         | 80 Maanden | €50.000 |
+| **Eerste veroordeling**     | -         | 30 Maanden | €15.000 |
+| **Tweede veroordeling**     | -         | 45 Maanden | €25.000 |
+| **Meerdere veroordelingen** | -         | 60 Maanden | €35.000 |
 
 2. Schuldig is een persoon die middelen van lijst II verkoopt, aflevert, verstrekt of vervoert.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
 | **Eerste veroordeling**     | 25 uur    | -          | €5.000  |
-| **Tweede veroordeling**     | -         | 20 Maanden | €10.000 |
-| **Meerdere veroordelingen** | -         | 30 Maanden | €20.000 |
+| **Tweede veroordeling**     | -         | 15 Maanden | €10.000 |
+| **Meerdere veroordelingen** | -         | 25 Maanden | €20.000 |
 
 ---
 
@@ -130,17 +130,17 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 50 Maanden | €25.000 |
-| **Tweede veroordeling**     | -         | 70 Maanden | €35.000 |
-| **Meerdere veroordelingen** | -         | 90 Maanden | €50.000 |
+| **Eerste veroordeling**     | -         | 35 Maanden | €20.000 |
+| **Tweede veroordeling**     | -         | 50 Maanden | €30.000 |
+| **Meerdere veroordelingen** | -         | 60 Maanden | €40.000 |
 
 2. Schuldig is een persoon die middelen van lijst II bereidt, bewerkt, verwerkt of vervaardigt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | 20 Maanden | €7.500  |
-| **Tweede veroordeling**     | -         | 35 Maanden | €15.000 |
-| **Meerdere veroordelingen** | -         | 50 Maanden | €25.000 |
+| **Eerste veroordeling**     | -         | 15 Maanden | €7.500  |
+| **Tweede veroordeling**     | -         | 25 Maanden | €15.000 |
+| **Meerdere veroordelingen** | -         | 40 Maanden | €25.000 |
 
 ---
 
