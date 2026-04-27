@@ -88,9 +88,9 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf    | Boete     |
 | --------------------------- | --------- | ----------- | --------- |
-| **Eerste veroordeling**     | -         | 45 maanden  | €20.000   |
-| **Tweede veroordeling**     | -         | 70 maanden  | €35.000   |
-| **Meerdere veroordelingen** | -         | 100 maanden | €50.000   |
+| **Eerste veroordeling**     | -         | 30 maanden  | €15.000   |
+| **Tweede veroordeling**     | -         | 45 maanden  | €25.000   |
+| **Meerdere veroordelingen** | -         | 60 maanden  | €35.000   |
 
 ---
 
@@ -100,9 +100,9 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | -         | 40 maanden | €20.000   |
-| **Tweede veroordeling**     | -         | 60 maanden | €30.000   |
-| **Meerdere veroordelingen** | -         | 80 maanden | €45.000   |
+| **Eerste veroordeling**     | -         | 25 maanden | €15.000   |
+| **Tweede veroordeling**     | -         | 40 maanden | €25.000   |
+| **Meerdere veroordelingen** | -         | 60 maanden | €35.000   |
 
 ---
 
@@ -112,9 +112,9 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | -         | 25 maanden | €10.000   |
-| **Tweede veroordeling**     | -         | 40 maanden | €20.000   |
-| **Meerdere veroordelingen** | -         | 60 maanden | €30.000   |
+| **Eerste veroordeling**     | -         | 18 maanden | €10.000   |
+| **Tweede veroordeling**     | -         | 30 maanden | €15.000   |
+| **Meerdere veroordelingen** | -         | 45 maanden | €20.000   |
 
 ---
 
@@ -125,8 +125,8 @@ In deze wet wordt verstaan onder:
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
 | **Eerste veroordeling**     | 20 uur    | -          | €4.000    |
-| **Tweede veroordeling**     | 35 uur    | -          | €7.500    |
-| **Meerdere veroordelingen** | -         | 15 maanden | €12.500   |
+| **Tweede veroordeling**     | 40 uur    | -          | €7.500    |
+| **Meerdere veroordelingen** | -         | 12 maanden | €12.500   |
 
 ---
 
@@ -136,17 +136,17 @@ In deze wet wordt verstaan onder:
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 20 uur    | -          | €4.000    |
-| **Tweede veroordeling**     | 35 uur    | -          | €7.500    |
-| **Meerdere veroordelingen** | -         | 15 maanden | €12.500   |
+| **Eerste veroordeling**     | 15 uur    | -          | €4.000    |
+| **Tweede veroordeling**     | 30 uur    | -          | €7.500    |
+| **Meerdere veroordelingen** | -         | 8 maanden  | €12.500   |
 
 2. Schuldig is een persoon die een holster voorhanden heeft of draagt terwijl daaruit, gelet op de omstandigheden, een kennelijke relatie met verboden wapenbezit blijkt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
 | --------------------------- | --------- | ---------- | --------- |
-| **Eerste veroordeling**     | 10 uur    | -          | €2.000    |
-| **Tweede veroordeling**     | 20 uur    | -          | €4.000    |
-| **Meerdere veroordelingen** | -         | 10 maanden | €7.500    |
+| **Eerste veroordeling**     | 10 uur    | -          | €1.500    |
+| **Tweede veroordeling**     | 20 uur    | -          | €3.000    |
+| **Meerdere veroordelingen** | -         | 5 maanden | €5.500    |
 
 ---
 
