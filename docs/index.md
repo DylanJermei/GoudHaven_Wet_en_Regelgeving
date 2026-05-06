@@ -1,10 +1,6 @@
 <div class="gh-hero">
-  <div class="gh-label">Officiële regelgeving</div>
-  <h1>Wetboek GoudHaven</h1>
-  <p>
-    Het officiële wetboek en de geldende regelgeving van GoudHaven Roleplay.
-    Dit platform vormt de juridische basis voor handhaving, berechting en naleving binnen de stad en haar rechtsgebied.
-  </p>
+  <div class="gh-label">Wet & regelgeving</div>
+  <h1>GoudHaven Roleplay</h1>
 
   <div class="gh-badges">
     <span class="gh-badge">Actieve versie 1.0</span>
