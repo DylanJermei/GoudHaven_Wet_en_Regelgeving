@@ -2,10 +2,10 @@
 | ---------------- | ----------------------------------- |
 | Officiële naam   | Wegenverkeerswet GoudHaven           |
 | Citeertitel      | WVWGH                                |
-| Rechtsgebied     | Strafrecht / Verkeersrecht          |
+| Rechtsgebied     | Goudhaven Roleplay          |
 | Vastgesteld door | Het gerechtshof te GoudHaven         |
-| Inwerkingtreding | 01-04-2026                          |
-| Laatst gewijzigd | 15-04-2026                          |
+| Inwerkingtreding | 05-05-2026                          |
+| Laatst gewijzigd | 05-05-2026                          |
 | Versie           | 1.1                                 |
 | Status           | Geldend                             |
 

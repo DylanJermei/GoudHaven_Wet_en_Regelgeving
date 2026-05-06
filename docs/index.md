@@ -8,7 +8,7 @@
 
   <div class="gh-badges">
     <span class="gh-badge">Actieve versie 1.0</span>
-    <span class="gh-badge">Laatste update 15-04-2026</span>
+    <span class="gh-badge">Laatste update 05-05-2026</span>
     <span class="gh-badge">Status: Geldend</span>
   </div>
 </div>
@@ -94,7 +94,7 @@ Gebruik de zoekfunctie rechtsboven om direct te zoeken op:
 | Kenmerk        | Waarde     |
 | -------------- | ---------- |
 | Huidige versie | 1.0        |
-| Laatste update | 15-04-2026 |
+| Laatste update | 05-05-2026 |
 | Status         | Geldend    |
 
 Wijzigingen aan het wetboek worden gepubliceerd via officiële updates. Raadpleeg bij twijfel altijd de meest recente versie van het betreffende document.

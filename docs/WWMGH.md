@@ -4,10 +4,10 @@
 | ---------------- | ------------------------------- |
 | Officiële naam   | Wet wapens en munitie GoudHaven |
 | Citeertitel      | WWMGH                            |
-| Rechtsgebied     | Strafrecht                      |
+| Rechtsgebied     | Goudhaven Roleplay                      |
 | Vastgesteld door | Het gerechtshof te GoudHaven     |
-| Inwerkingtreding | 15-04-2026                      |
-| Laatst gewijzigd | 15-04-2026                      |
+| Inwerkingtreding | 05-05-2026                      |
+| Laatst gewijzigd | 05-05-2026                      |
 | Versie           | 1.0                             |
 | Status           | Geldend                         |
 
