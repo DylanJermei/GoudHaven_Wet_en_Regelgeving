@@ -1,0 +1,50 @@
+name: GoudHaven Wetboek Logs
+
+on:
+  push:
+    branches:
+      - main
+
+    paths:
+      - "docs/**"
+
+jobs:
+  discord-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Gewijzigde markdown bestanden ophalen
+        id: changes
+        run: |
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          git diff --name-only HEAD~1 HEAD | grep '^docs/.*\.md$' >> $GITHUB_OUTPUT || true
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Discord log versturen
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+
+        run: |
+          MESSAGE=$(cat <<EOF
+          📜 **Wijzeging in het wetboek**
+
+          👤 **Auteur:** ${{ github.actor }}
+
+          📝 **Wijzeging**
+          ${{ github.event.head_commit.message }}
+
+          📂 **Gewijzigd(e) document(en)**
+          ${{ steps.changes.outputs.files }}
+
+          🔗 https://github.com/${{ github.repository }}/commit/${{ github.sha }}
+          EOF
+          )
+
+          jq -n --arg content "$MESSAGE" '{content: $content}' \
+          | curl -H "Content-Type: application/json" \
+                 -X POST \
+                 -d @- \
+                 $DISCORD_WEBHOOK
