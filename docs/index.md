@@ -1,14 +1,12 @@
 <div class="gh-hero">
   <div class="gh-label">Wet & regelgeving</div>
   <h1>GoudHaven Roleplay</h1>
-
+</div>
 | Kenmerk        | Waarde     |
 | -------------- | ---------- |
 | Huidige versie | 1.0        |
 | Laatste update | 05-05-2026 |
 | Status         | Geldend    |
-
-Wijzigingen aan het wetboek worden gepubliceerd via officiële updates. Raadpleeg bij twijfel altijd juridische instanties.
 
 ## Welkom
 
@@ -43,26 +41,6 @@ Bij de interpretatie van artikelen geldt de letterlijke tekst als uitgangspunt. 
 
 ---
 
-<div class="gh-grid">
-  <div class="gh-card">
-    <h3>⚖️ Strafrecht</h3>
-    <p>Algemene bepalingen, misdrijven, deelneming, voorlopige hechtenis en strafmaat.</p>
-  </div>
-  <div class="gh-card">
-    <h3>🚗 Verkeersrecht</h3>
-    <p>Gedragsregels in het verkeer, verkeersongevallen, rijontzegging en bijzondere feiten.</p>
-  </div>
-  <div class="gh-card">
-    <h3>🔫 Wapens & Munitie</h3>
-    <p>Indeling van wapens, verboden bezit, strafverzwarende omstandigheden en inbeslagneming.</p>
-  </div>
-  <div class="gh-card">
-    <h3>💊 Opiumwet</h3>
-    <p>Indeling van middelen, gebruikers- en handelshoeveelheden, handel en productie.</p>
-  </div>
-</div>
-
----
 
 ## Snel zoeken
 
