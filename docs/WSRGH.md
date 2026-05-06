@@ -179,7 +179,7 @@
 
 1. Indien de op te leggen straf een totale duur van meer dan 50 maanden gevangenisstraf bedraagt, kan deze niet direct door opsporingsambtenaren worden opgelegd.
 2. In dat geval dient de zaak te worden voorgelegd aan een bevoegde rechterlijke instantie.
-3. De verdachte wordt in afwachting van de behandeling door de rechter in voorlopige hechtenis geplaatst, overeenkomstig de bepalingen in dit wetboek. -- Enkelband?!?
+3. De verdachte wordt in afwachting van de behandeling door de rechter in voorlopige hechtenis geplaatst, overeenkomstig de bepalingen in dit wetboek.
 
 ---
 
