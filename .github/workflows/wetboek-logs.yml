@@ -29,11 +29,11 @@ jobs:
 
         run: |
           MESSAGE=$(cat <<EOF
-          📜 **Wijzeging in het wetboek**
+          📜 **Wijziging in het wetboek**
 
           👤 **Auteur:** ${{ github.actor }}
 
-          📝 **Wijzeging**
+          📝 **Wijziging**
           ${{ github.event.head_commit.message }}
 
           📂 **Gewijzigd(e) document(en)**
